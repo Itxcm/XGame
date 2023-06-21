@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef_trail_11007_tuowei_1
+  m_Shader: {fileID: 4800000, guid: 842ea7d7ca135f14fb10ba0f7cc0f205, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Blend_Texture:
+        m_Texture: {fileID: 2800000, guid: f82d3484bee3f584e986c876e1b95cf8, type: 3}
+        m_Scale: {x: 5, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_Texture01:
+        m_Texture: {fileID: 2800000, guid: a9ba78df4574e7548a456652a7e87be6, type: 3}
+        m_Scale: {x: 1.5, y: 1.5}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrc:
+        m_Texture: {fileID: 2800000, guid: d24d9235876291a40867976d3c6da428, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 607ef14da5e0a974f80d4b779b926afd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 607ef14da5e0a974f80d4b779b926afd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: ddec1a96efe1b564aa6ca9de777c299d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AllPower: 3.52
+    - _AlphaPower: 3.73
+    - _Amount: 0.5
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _ForceX: 0.645
+    - _ForceY: 0.731
+    - _Glossiness: 0.5
+    - _HeatForce: 0
+    - _HeatTime: 0.473
+    - _InnerColorPower: 0.564
+    - _Lighten: 30
+    - _LightenMain: 0.36
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RimPower: 2.54
+    - _Speed00: 30
+    - _Speed01: 10
+    - _Speed02: -50
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color01: {r: 0.5735294, g: 0.52885693, b: 0.47231835, a: 1}
+    - _Color02: {r: 0.2647059, g: 0.23745675, b: 0.19658305, a: 0.378}
+    - _Color03: {r: 0.24264705, g: 0.21439564, b: 0.1926903, a: 0.603}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _InnerColor: {r: 1, g: 0.64401615, b: 0.007352948, a: 0.5}
+    - _RimColor: {r: 1, g: 0.39310342, b: 0, a: 0.5}
+    - _TintColor: {r: 0.4044118, g: 0.35453707, b: 0.29141438, a: 0.653}

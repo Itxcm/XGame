@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E1_Warning-hongse_02
+  m_Shader: {fileID: 4800000, guid: 0f74d5c60aa4edf469df18b3d3f5b4c2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Blend_Texture:
+        m_Texture: {fileID: 2800000, guid: a5c4ac2b98a08a94f861d80538180d18, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_Texture01:
+        m_Texture: {fileID: 2800000, guid: 369739b1c48cd0c419d645b40e7fa815, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2c815c640e79bce41a445fe38c1303e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _InvFade: 1
+    - _Lighten: -5
+    - _LightenMain: 8
+    - _Speed01: 18
+    - _Speed02: 0
+    m_Colors:
+    - _Color01: {r: 1, g: 0.5588235, b: 0.5588235, a: 1}
+    - _Color02: {r: 1, g: 0.875, b: 0.875, a: 0}
+    - _Color03: {r: 1, g: 0.5955882, b: 0.5955882, a: 0}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}

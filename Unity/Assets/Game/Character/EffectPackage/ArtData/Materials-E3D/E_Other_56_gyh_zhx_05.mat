@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E_Other_56_gyh_zhx_05
+  m_Shader: {fileID: 4800000, guid: 268f447a688d4e74480b0d180674defb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: a8208a11a175eb34d8922fc900058896, type: 3}
+        m_Scale: {x: 2, y: 1.2}
+        m_Offset: {x: 0, y: 0.2}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 2800000, guid: b73f04c1f244a1749b17e8350b1a6b81, type: 3}
+        m_Scale: {x: 1, y: 1.03}
+        m_Offset: {x: 0.41771224, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissloveMap:
+        m_Texture: {fileID: 2800000, guid: 21e30e64d72421a4ba595bf2f6781466, type: 3}
+        m_Scale: {x: 1.19, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Distortion:
+        m_Texture: {fileID: 2800000, guid: 131b5981ab0622144be8c5e81ae3bceb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 2863f9861a647084ea584050c9dc0f03, type: 3}
+        m_Scale: {x: 7, y: 2}
+        m_Offset: {x: -0.01, y: 2.66}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 443b10386172a704aa2e1ef1fb0f0e7a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: a8208a11a175eb34d8922fc900058896, type: 3}
+        m_Scale: {x: 2, y: 1.2}
+        m_Offset: {x: 0, y: 0.2}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Screen:
+        m_Texture: {fileID: 2800000, guid: dce750b31829ded419f5869c3ee2de3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T2:
+        m_Texture: {fileID: 2800000, guid: 131b5981ab0622144be8c5e81ae3bceb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: c632a3247d45a154ca7bb93c0bf2589a, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: dadf981298fcedc4684c4dcf73145e85, type: 3}
+        m_Scale: {x: 0.4, y: 0.4}
+        m_Offset: {x: 0, y: 0}
+    - _matcap:
+        m_Texture: {fileID: 2800000, guid: 16ea5f91d219bbf42a001cc9149f19ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BaseVOffset: 2.08
+    - _BaseVTitling: 0.32
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Diss: 0.55
+    - _Disslove: 0.623
+    - _DstBlend: 0
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Float0: 0.021
+    - _Float1: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Glow: 1
+    - _HardEdge: 0.16763987
+    - _Instensity: 2.77
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Offset: 0.026
+    - _Parallax: 0.02
+    - _Power: 2.95
+    - _Progress: 1
+    - _Remap: -1
+    - _ScreenLine: 0.3294119
+    - _SmoothnessTextureChannel: 0
+    - _Soft: 20
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _VertexOffset: 0.0109
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _2U: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 2.169118, g: 3.0086207, b: 5, a: 1}
+    - _Color: {r: 0.073529325, g: 0.073529325, b: 0.073529325, a: 1}
+    - _Color0: {r: 0.6137934, g: 0, b: 1, a: 0}
+    - _DarkColor: {r: 0.19117647, g: 0.19117647, b: 0.19117647, a: 1}
+    - _EdgeColor: {r: 5, g: 5, b: 5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightColor: {r: 0.2205882, g: 0.2205882, b: 0.2205882, a: 0}
+    - _MaskSpeed: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _NoiseSpeed: {r: -0.2, g: 0.3, b: 0, a: 0}
+    - _OffsetSpeed: {r: -0.2, g: -0.4, b: 5, a: 2}
+    - _Vector2: {r: -0.2, g: -0.65, b: 5, a: 2.8}

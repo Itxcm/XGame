@@ -1,0 +1,2804 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Damage-shi-002
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -0.7925697
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: suisi
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 423010439
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 423010439
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 423010439
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 423010439
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2151674173
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2151674173
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2151674173
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2151674173
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4147691947
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4147691947
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4147691947
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4147691947
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1767658504
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1767658504
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1767658504
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1767658504
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 509306014
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 509306014
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 509306014
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 509306014
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2270311716
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2270311716
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2270311716
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2270311716
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4032103858
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4032103858
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4032103858
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4032103858
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1625954339
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1625954339
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1625954339
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1625954339
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 401418421
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 401418421
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 401418421
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 401418421
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1405828810
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -0.7925697
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_001
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_002
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_003
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_004
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_005
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_006
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_007
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_008
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -20.47057
+        outSlope: -5.117647
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.32941177
+        inSlope: -5.117647
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.32941177
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.32941177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: -21.882334
+        outSlope: -5.470588
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.31764707
+        inSlope: -5.470588
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.31764707
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0.31764707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 60.23525
+        outSlope: 15.0588255
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.5019608
+        inSlope: 15.0588255
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3666667
+        value: 0.5019608
+        inSlope: 0
+        outSlope: -0.7925697
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: -0.7925697
+        outSlope: -1.8823527
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: suisi/Box001_frag_009
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: suisi
+    classID: 1
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

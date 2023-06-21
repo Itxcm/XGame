@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: E3D-Gradient10
+  m_Shader: {fileID: 4800000, guid: f4657a1a8b6df82458198e12db18708a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 9727da9c1f9e81b42a30b87bd3b5a1e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 0.49}
+        m_Offset: {x: 0, y: -0.36}
+    - _MASK:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: db9f81acc188d36448c44ba56f3b9963, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 9de598ffe4486884f84fb1630fec5c5e, type: 3}
+        m_Scale: {x: 3, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: f2fa5cb3c8288c14c8ffcb8ed3d60a5b, type: 3}
+        m_Scale: {x: 4.97, y: 0.01}
+        m_Offset: {x: -1.55, y: -0.409935}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 1e5445788ccacad40aafef46b8fa7584, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex:
+        m_Texture: {fileID: 2800000, guid: d1ce8f07ecaf6c94780b83dbf978b14b, type: 3}
+        m_Scale: {x: 1.5, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Brightness: 3.03
+    - _Cutoff: 0.5
+    - _Diss: 0.337
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Glow: 1
+    - _Power: 10
+    - _Soft: 50
+    - _Strength: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 2.5610003, g: 2.5610003, b: 2.5610003, a: 0.535}
+    - _EdgeColor: {r: 1, g: 0.76551723, b: 0, a: 1}
+    - _MaskSpeed: {r: 0, g: 0.1, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0, g: -0.2, b: 0, a: 0}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 0.5}
+    - _color: {r: 1, g: 0.67981744, b: 0.43382353, a: 1}
+  m_BuildTextureStacks: []

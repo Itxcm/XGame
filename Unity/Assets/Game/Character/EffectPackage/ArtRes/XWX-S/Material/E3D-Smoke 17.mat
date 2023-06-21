@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: E3D-Smoke 17
+  m_Shader: {fileID: 4800000, guid: c82a521b61834524ab1950f852e4555b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _TOGGLESWITCH0_ON
+  - _UVSPEED_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 32f8dbeab8c5a6f42bc568a3f13925fd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 2800000, guid: 5a243b3376d776c4ea3ce90a3d194667, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissloveMap:
+        m_Texture: {fileID: 2800000, guid: e5e4f8d6f0dfeca45a8fcc8174dfa252, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveMap:
+        m_Texture: {fileID: 2800000, guid: beeafa5b7d59bde47bf7709e3b8df8e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 1, y: 1}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: fb55212bcb0eb7440a07a7d02d8c4225, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _020: 0.15
+    - _BumpScale: 1
+    - _Cutoff: 0.2
+    - _DarkEnd: 0
+    - _DetailNormalMapScale: 1
+    - _Diss: 1.01
+    - _DstBlend: 0
+    - _EdgeIntensity: 0.2
+    - _EdgeScale: 1
+    - _EdgeSoft: 1
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Float0: 0
+    - _Float1: 0.194
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Glow: 1
+    - _HardEdgeInstensity: 0
+    - _LightDarkScale: -1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalType: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Scale: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SoftEdgeInstensity: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _ToggleSwitch0: 1
+    - _UTiling: 0.86
+    - _UVSec: 0
+    - _UVSpeed: 1
+    - _UVTiling: 0.78
+    - _VTiling: 0.81
+    - _VertexOffset: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 1.9630002, g: 0.8528897, b: 0, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DarkColor: {r: 1, g: 0.16551724, b: 0, a: 1}
+    - _Direct: {r: 0.35, g: 1.58, b: 0, a: 0}
+    - _EdgeColor: {r: 1, g: 0.39310342, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightColor: {r: 1.3411765, g: 0.11833913, b: 0.11833913, a: 0}
+    - _LightDirect: {r: 1, g: 1, b: 1, a: 0}
+    - _MainColor: {r: 1.649, g: 0, b: 0, a: 1}
+    - _OffsetSpeed: {r: 0.2, g: -0.4, b: 0, a: 0}
+    - _UVOffset: {r: 0.1, g: -0.1, b: 0, a: 0}
+    - _Vector0: {r: 2.77, g: 0.1, b: 0, a: 0}
+  m_BuildTextureStacks: []

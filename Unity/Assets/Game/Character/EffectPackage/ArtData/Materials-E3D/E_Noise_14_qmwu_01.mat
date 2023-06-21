@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E_Noise_14_qmwu_01
+  m_Shader: {fileID: 4800000, guid: 492556800e88daa489a38f613648ac29, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 0b29ae6e680fa9d4ba36055280b65852, type: 3}
+        m_Scale: {x: 0.5, y: 0.3}
+        m_Offset: {x: 0, y: 0.09197098}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.48, y: 1}
+        m_Offset: {x: -0.28, y: 0}
+    - _MASK:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: db9f81acc188d36448c44ba56f3b9963, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 443b10386172a704aa2e1ef1fb0f0e7a, type: 3}
+        m_Scale: {x: 1, y: 0.7}
+        m_Offset: {x: 0.6, y: 0.42}
+    - _NoiseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 5ea5f590288c0e4499453f3d1ff94086, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 1e5445788ccacad40aafef46b8fa7584, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex:
+        m_Texture: {fileID: 2800000, guid: d1ce8f07ecaf6c94780b83dbf978b14b, type: 3}
+        m_Scale: {x: 1.5, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Brightness: 3.03
+    - _Cutoff: 0.5
+    - _Diss: 1
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Glow: 1
+    - _Power: 2.12
+    - _ReverseAlpha: 0
+    - _ReverseFresnel: 0.489
+    - _Soft: 50
+    - _Strength: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 3.898, g: 3.898, b: 3.898, a: 1}
+    - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 2.7205884, g: 3.5851927, b: 5, a: 1}
+    - _MaskSpeed: {r: 0.2, g: -0.2, b: 0, a: 0}
+    - _NoiseColor: {r: 1, g: 1, b: 1, a: 0}
+    - _NoiseSpeed: {r: 0.3, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 0.5}
+    - _color: {r: 1, g: 0.67981744, b: 0.43382353, a: 1}

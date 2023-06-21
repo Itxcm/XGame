@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E_Tail_74_zhx_06
+  m_Shader: {fileID: 4800000, guid: 268f447a688d4e74480b0d180674defb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: db7e4f5ab0e9c22439dad0d7224e6702, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: -0.1, y: 0}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MASK:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b14cd08c354bb13428343ea5a75df440, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 0.2, y: 1}
+        m_Offset: {x: 0, y: -0.09}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Diss: 1
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Glow: 1
+    - _Soft: 50
+    - _Strength: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 1.6, g: 1.3647062, b: 1.3647062, a: 1}
+    - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1.185294, g: 1.2098173, b: 1.3, a: 1}

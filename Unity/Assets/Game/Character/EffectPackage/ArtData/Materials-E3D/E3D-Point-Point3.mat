@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: E3D-Point-Point3
+  m_Shader: {fileID: 4800000, guid: 76f8a8247a9952a4393b35768748ecaa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - ZQLTGLOW_GLOW_GLOWTEX
+  - ZQLTGLOW_MULTIPLY_GLOWCOLOR
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GlowTex:
+        m_Texture: {fileID: 2800000, guid: 45cfdafb818692e4da347c736cdd356a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 14c74a86b32116f469ff6efac9c642c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 1
+    - _GlowStrength: 4
+    m_Colors:
+    - _GlowColor: {r: 0.5147059, g: 0.5147059, b: 0.5147059, a: 1}
+    - _TintColor: {r: 0.27059904, g: 0.3460222, b: 0.5661765, a: 1}
+  m_BuildTextureStacks: []

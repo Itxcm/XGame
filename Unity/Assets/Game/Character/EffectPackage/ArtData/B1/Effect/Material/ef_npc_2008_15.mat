@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef_npc_2008_15
+  m_Shader: {fileID: 4800000, guid: 6eac2b31b81450b42ba4285117ae616b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 4000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseRGBA:
+        m_Texture: {fileID: 2800000, guid: 9b3d1fc52566c534b8994d379a4aa00d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_Texture:
+        m_Texture: {fileID: 2800000, guid: 59326d177d595e14a901ca0f9b752e9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_Texture01:
+        m_Texture: {fileID: 2800000, guid: 59326d177d595e14a901ca0f9b752e9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 99634a976adcc254e886a34939f1872f, type: 3}
+        m_Scale: {x: 1.45, y: 1}
+        m_Offset: {x: 0, y: 0.02}
+    - _ShapeRGB:
+        m_Texture: {fileID: 2800000, guid: 6886505889fcfbc4fb38cc8feaba76ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _EdgeClip: 2.05
+    - _InvFade: 1
+    - _Lighten: 1
+    - _LightenMain: 0.43
+    - _Speed01: 0.23
+    - _Speed02: 1
+    - _UV: 1.8
+    m_Colors:
+    - _Color01: {r: 0.15862082, g: 0, b: 1, a: 1}
+    - _Color02: {r: 1, g: 1, b: 1, a: 1}
+    - _Color03: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorAdd: {r: 1, g: 0.59999996, b: 0, a: 1}
+    - _ColorMul: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.16176468, g: 0.34097356, b: 1, a: 0.5}

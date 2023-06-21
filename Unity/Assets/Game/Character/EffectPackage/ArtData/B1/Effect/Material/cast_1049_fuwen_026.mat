@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cast_1049_fuwen_026
+  m_Shader: {fileID: 4800000, guid: acf43e6f7323984439ee18dc36aa2628, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _AlphaClipRGBA
+      second:
+        m_Texture: {fileID: 2800000, guid: 237babe1bf39205499c4a9c634a0e63c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _AlphaTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 27cf6afc9d3231741a03ed50fa97c5fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BaseRGBA
+      second:
+        m_Texture: {fileID: 2800000, guid: 5d4d17d8d390f0a44a0f3566ff14e555, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 5d4d17d8d390f0a44a0f3566ff14e555, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _CamCapture
+      second:
+        m_Texture: {fileID: 2800000, guid: 237babe1bf39205499c4a9c634a0e63c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DissolveSrc
+      second:
+        m_Texture: {fileID: 2800000, guid: 5d4d17d8d390f0a44a0f3566ff14e555, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 237babe1bf39205499c4a9c634a0e63c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShapeRGB
+      second:
+        m_Texture: {fileID: 2800000, guid: 237babe1bf39205499c4a9c634a0e63c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Alpha
+      second: 1
+    - first:
+        name: _Amount
+      second: 0.19
+    - first:
+        name: _Base2uv
+      second: 0
+    - first:
+        name: _BaseAlphaAdd
+      second: 0.92
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _EdgeClip
+      second: 6.49
+    - first:
+        name: _InvFade
+      second: 1.39
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _Progess
+      second: 0.3
+    - first:
+        name: _Shape2uv
+      second: 0
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _Width
+      second: 0.054
+    - first:
+        name: _ZWrite
+      second: 1
+    m_Colors:
+    - first:
+        name: _AddColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _BaseColor
+      second: {r: 0.7352941, g: 0.8685599, b: 1, a: 1}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _EdgeColor
+      second: {r: 0.5514706, g: 0.68448293, b: 1, a: 1}
+    - first:
+        name: _MainColor
+      second: {r: 0.2205882, g: 0.5807299, b: 1, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 1, g: 1, b: 1, a: 0.722}

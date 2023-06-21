@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: E3D-Loop4-60-3
+  m_Shader: {fileID: 4800000, guid: c0afc520dec3d354c8f803c2de96bb66, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _SHAPE2UV_ON
+  - _SPECULAR_TEX_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseRGB:
+        m_Texture: {fileID: 2800000, guid: f8f7a35f6f6c8214a842029f18e47d20, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseRGBA:
+        m_Texture: {fileID: 2800000, guid: f8f7a35f6f6c8214a842029f18e47d20, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DarkRGB:
+        m_Texture: {fileID: 2800000, guid: 1e1bb810929596e4896ce1cff2ce046c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DarkRGBA:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 841246665a78cb24a8e47f5d5a823861, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 369739b1c48cd0c419d645b40e7fa815, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShapeAlphaR:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShapeAlphaRGBA:
+        m_Texture: {fileID: 2800000, guid: 1e1bb810929596e4896ce1cff2ce046c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Mask:
+        m_Texture: {fileID: 2800000, guid: 107e3c34d98448d4b8c4759958b23645, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Reflection:
+        m_Texture: {fileID: 2800000, guid: 5b8cf7ee9a354cf4b9910eb8d31aa35c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 1
+    - _AutoSpeed: 0
+    - _BaseClipMul: 1
+    - _Cutoff: 0.5
+    - _Edge: 2
+    - _EdgeClip: 10
+    - _Falloff: 0
+    - _Falloff_range: 5
+    - _ForceX: 0.128
+    - _ForceY: 0.158
+    - _Gloss: 4.77
+    - _HeatForce: 0.1
+    - _HeatTime: 0.55
+    - _InvFade: 1
+    - _LightMul: 2.11
+    - _Progess: -0.05
+    - _Reflection_intensity: -12.13
+    - _Shape2uv: 1
+    - _Soft: 0
+    - _Specular_Tex: 0.960784
+    - _Width: 0
+    m_Colors:
+    - _A2LightColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _A2LightPos: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.44227716, g: 0.4852941, b: 0.3211505, a: 1}
+    - _EdgeColor: {r: 1, g: 0, b: 0, a: 1}
+    - _Falloff_Color: {r: 1, g: 1, b: 0.0705882, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 0, b: 0, a: 1}
+    - _Specular_Color: {r: 0.470588, g: 0.449827, b: 0.449827, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,2991 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Skill-Blade-niuqu-reqi
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 270, y: 270.74, z: 0}
+        inSlope: {x: 0.29663083, y: -974.9998, z: 0}
+        outSlope: {x: -0, y: -1020.5996, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 270, y: 202.70001, z: 0}
+        inSlope: {x: 0, y: -1020.5996, z: 0}
+        outSlope: {x: 0.1977539, y: -1251, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.16666667
+        value: {x: 270.01978, y: 77.600006, z: 0}
+        inSlope: {x: 0.1977539, y: -1251, z: 0}
+        outSlope: {x: 1.1869813, y: -2054.8972, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.23333333
+        value: {x: 270.0989, y: -59.393135, z: 0}
+        inSlope: {x: 1.1869813, y: -2054.8972, z: 0}
+        outSlope: {x: 8.111725, y: -173.52919, z: 0.0028423357}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4
+        value: {x: 271.45087, y: -88.31467, z: 0.00047372258}
+        inSlope: {x: 8.111801, y: -173.52919, z: 0.002842335}
+        outSlope: {x: 8.111801, y: -85.7143, z: 0.002842335}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.43333334
+        value: {x: 271.72125, y: -88.31467, z: 0.00056846713}
+        inSlope: {x: 8.111725, y: 0, z: 0.0028423357}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: E1-Skill-Blade-niuqu-reqi_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 271.80115, y: 7.284605, z: 256.3762}
+        inSlope: {x: -0.0036621091, y: -0.0014448165, z: -1402.9554}
+        outSlope: {x: -0.0018310546, y: -0.00072240824, z: -701.4777}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666667
+        value: {x: 271.80103, y: 7.284557, z: 209.61101}
+        inSlope: {x: -0.0018310546, y: -0.00072240824, z: -701.4777}
+        outSlope: {x: -0.0036621091, y: -0.0014448165, z: -1402.9554}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: E3-Skill-Blade-niuqu-reqi_13
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 249
+        outSlope: 124.5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 8.3
+        inSlope: 124.5
+        outSlope: -26.22857
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 2.18
+        inSlope: -26.22857
+        outSlope: -16.350002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0
+        inSlope: -16.350002
+        outSlope: -35.571426
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7
+        inSlope: -119.99999
+        outSlope: 33.000004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.40000015
+        inSlope: 33.000004
+        outSlope: 32.999992
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 32.999992
+        outSlope: -4.499999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.2
+        inSlope: -4.499999
+        outSlope: -0.5357143
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.7
+        inSlope: -0.5357143
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.65
+        inSlope: 120.59999
+        outSlope: -24.899998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.82
+        inSlope: -24.899998
+        outSlope: -11.4
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.44
+        inSlope: -11.4
+        outSlope: -8.7
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.14
+        inSlope: -8.7
+        outSlope: -0.42857143
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: -0.54
+        inSlope: -0.42857143
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: 0
+        outSlope: 0.8999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.06
+        inSlope: 0.8999999
+        outSlope: -0.06428571
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0
+        inSlope: -0.06428571
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.3
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 8.3
+        inSlope: 0
+        outSlope: 16.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 10
+        inSlope: 16.999998
+        outSlope: -29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 6
+        inSlope: -29.999998
+        outSlope: -12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.8
+        value: 0
+        inSlope: -12
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7
+        inSlope: -81
+        outSlope: 12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.1
+        inSlope: 12
+        outSlope: 11.999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 11.999999
+        outSlope: 15.000001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 2
+        inSlope: 15.000001
+        outSlope: -14.999997
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: -14.999997
+        outSlope: -4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.2
+        inSlope: -4.4999995
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.84
+        inSlope: 0
+        outSlope: 4.7999988
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 2
+        inSlope: 4.7999988
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 2
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 2
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 2
+        inSlope: 0
+        outSlope: -2.3999996
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.84
+        inSlope: -2.3999996
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.94
+        inSlope: 0
+        outSlope: -9
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.64
+        inSlope: -9
+        outSlope: -8.999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.34
+        inSlope: -8.999999
+        outSlope: -19.800001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.32
+        inSlope: -19.800001
+        outSlope: -4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.47
+        inSlope: -4.4999995
+        outSlope: -4.05
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.74
+        inSlope: -4.05
+        outSlope: -15.300001
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02
+        inSlope: 0
+        outSlope: -13.199999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.42
+        inSlope: -13.199999
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.42
+        inSlope: 0
+        outSlope: -5.1
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.59
+        inSlope: -5.1
+        outSlope: 3.299999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.48
+        inSlope: 3.299999
+        outSlope: 7.5000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.02
+        inSlope: 7.5000005
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.47794116
+        inSlope: 0
+        outSlope: 1.7401956
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.5359477
+        inSlope: 1.7401956
+        outSlope: 1.7401961
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 1.7401961
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -3.7499998
+        outSlope: 29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 29.999998
+        outSlope: -3.7499998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 0
+        inSlope: -3.7499998
+        outSlope: -3.7499998
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7
+        inSlope: -96
+        outSlope: -12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -1.5
+        inSlope: -12
+        outSlope: 4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -1.35
+        inSlope: 4.4999995
+        outSlope: 4.4999986
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.2
+        inSlope: 4.4999986
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: -1.2
+        inSlope: 0
+        outSlope: -0.47368416
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 7.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 7.4999995
+        outSlope: -95.100006
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -1.67
+        inSlope: -95.100006
+        outSlope: 92.69998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.42
+        inSlope: 92.69998
+        outSlope: -0.6631579
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 1
+        inSlope: -0.6631579
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.13
+        inSlope: 0
+        outSlope: 7.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.63
+        inSlope: 7.4999995
+        outSlope: 9.9
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.96
+        inSlope: 9.9
+        outSlope: 12.299999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.37
+        inSlope: 12.299999
+        outSlope: 0.99473685
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 2
+        inSlope: 0.99473685
+        outSlope: 0.4894737
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.37
+        inSlope: 0
+        outSlope: 8.099999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.17
+        inSlope: 8.099999
+        outSlope: 27.300003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1.08
+        inSlope: 27.300003
+        outSlope: -46.199993
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.46
+        inSlope: -46.199993
+        outSlope: 0.14210528
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: -0.37
+        inSlope: 0.14210528
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 10
+        inSlope: -37.499996
+        outSlope: -101.99999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 3.2
+        inSlope: -101.99999
+        outSlope: -3.0000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 3
+        inSlope: -3.0000005
+        outSlope: -5.625
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: -5.625
+        outSlope: -37.499996
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7
+        inSlope: -111.299995
+        outSlope: 12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 12
+        outSlope: -12.000004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1.0999999
+        inSlope: -12.000004
+        outSlope: 12.000001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: 12.000001
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.85
+        inSlope: 0
+        outSlope: -6.6
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.41
+        inSlope: -6.6
+        outSlope: -4.5000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.26
+        inSlope: -4.5000005
+        outSlope: -18.899998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.37
+        inSlope: -18.899998
+        outSlope: -3.3428571
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: -1.15
+        inSlope: -3.3428571
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -10.808823
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.6397059
+        inSlope: -10.808823
+        outSlope: 3.602941
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 3.602941
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3719213
+        inSlope: 0.12366726
+        outSlope: -0.70658857
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.34836835
+        inSlope: -0.70658857
+        outSlope: -4.920585
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.18434884
+        inSlope: -4.920585
+        outSlope: 1.4046656
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.3248154
+        inSlope: 1.4046656
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.3248154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.3248154
+        inSlope: 0
+        outSlope: -2.4360406
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.11764705
+        inSlope: -0.16544132
+        outSlope: -0.99264705
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.084558815
+        inSlope: -0.99264705
+        outSlope: -2.5367644
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: -2.5367644
+        outSlope: 0.5147058
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.051470578
+        inSlope: 0.5147058
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.051470578
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.051470578
+        inSlope: 0
+        outSlope: -0.93749994
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -0.14249995
+        outSlope: 29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 29.999998
+        outSlope: -13.52941
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.54901963
+        inSlope: -13.52941
+        outSlope: 4.509804
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 4.509804
+        outSlope: -6.7647057
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.54901963
+        inSlope: -6.7647057
+        outSlope: -5.4901958
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: -5.4901958
+        outSlope: -7.3574996
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6029412
+        inSlope: 11.911763
+        outSlope: 5.9558816
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 5.9558816
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1680408
+        inSlope: 9.928349
+        outSlope: 4.9641743
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.49898577
+        inSlope: 4.9641743
+        outSlope: -0.23123711
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.47586206
+        inSlope: -0.23123711
+        outSlope: -0.2312371
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03990052
+        inSlope: 0.12651332
+        outSlope: 0.06325666
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.04411763
+        inSlope: 0.06325666
+        outSlope: -0.4411763
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: -0.4411763
+        outSlope: -0.44117627
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseAlphaAdd
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2339692885
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 2366873068
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1147133476
+      attribute: 165845361
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1147133476
+      attribute: 702716273
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1147133476
+      attribute: 971151729
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1147133476
+      attribute: 2366873068
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 165845361
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 434280817
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 702716273
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 971151729
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 2366873068
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 1303350129
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 1571785585
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 1840221041
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1147133476
+      attribute: 434280817
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1038459861
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1117002959
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1209672335
+      attribute: 2108656497
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 950711632
+      attribute: 2244712445
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.0666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 270
+        inSlope: 0.29663083
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 270
+        inSlope: 0
+        outSlope: 0.1977539
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 270.01978
+        inSlope: 0.1977539
+        outSlope: 1.1869813
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 270.0989
+        inSlope: 1.1869813
+        outSlope: 8.111725
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 271.72125
+        inSlope: 8.111725
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 270.74
+        inSlope: -974.9998
+        outSlope: -1020.5996
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 202.70001
+        inSlope: -1020.5996
+        outSlope: -1251
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 77.600006
+        inSlope: -1251
+        outSlope: -2054.8972
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: -59.393135
+        inSlope: -2054.8972
+        outSlope: -173.52919
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.4
+        value: -88.31467
+        inSlope: -173.52919
+        outSlope: -85.7143
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0
+        inSlope: 0
+        outSlope: 0.0028423357
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0.00056846713
+        inSlope: 0.0028423357
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 249
+        outSlope: 124.5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 8.3
+        inSlope: 124.5
+        outSlope: -26.22857
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 2.18
+        inSlope: -26.22857
+        outSlope: -16.350002
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.43333334
+        value: 0
+        inSlope: -16.350002
+        outSlope: -35.571426
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 271.80115
+        inSlope: -0.0036621091
+        outSlope: -0.0018310546
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 271.80103
+        inSlope: -0.0018310546
+        outSlope: -0.0036621091
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.284605
+        inSlope: -0.0014448165
+        outSlope: -0.00072240824
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 7.284557
+        inSlope: -0.00072240824
+        outSlope: -0.0014448165
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 256.3762
+        inSlope: -1402.9554
+        outSlope: -701.4777
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 209.61101
+        inSlope: -701.4777
+        outSlope: -1402.9554
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7
+        inSlope: -119.99999
+        outSlope: 33.000004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.40000015
+        inSlope: 33.000004
+        outSlope: 32.999992
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 32.999992
+        outSlope: -4.499999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.2
+        inSlope: -4.499999
+        outSlope: -0.5357143
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.7
+        inSlope: -0.5357143
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.65
+        inSlope: 120.59999
+        outSlope: -24.899998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.82
+        inSlope: -24.899998
+        outSlope: -11.4
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.44
+        inSlope: -11.4
+        outSlope: -8.7
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.14
+        inSlope: -8.7
+        outSlope: -0.42857143
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: -0.54
+        inSlope: -0.42857143
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: 0
+        outSlope: 0.8999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.06
+        inSlope: 0.8999999
+        outSlope: -0.06428571
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0
+        inSlope: -0.06428571
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.3
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 8.3
+        inSlope: 0
+        outSlope: 16.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 10
+        inSlope: 16.999998
+        outSlope: -29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 6
+        inSlope: -29.999998
+        outSlope: -12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.8
+        value: 0
+        inSlope: -12
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E1-Skill-Blade-niuqu-reqi_07_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7
+        inSlope: -81
+        outSlope: 12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1.1
+        inSlope: 12
+        outSlope: 11.999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 11.999999
+        outSlope: 15.000001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 2
+        inSlope: 15.000001
+        outSlope: -14.999997
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: -14.999997
+        outSlope: -4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.2
+        inSlope: -4.4999995
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.84
+        inSlope: 0
+        outSlope: 4.7999988
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 2
+        inSlope: 4.7999988
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 2
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 2
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 2
+        inSlope: 0
+        outSlope: -2.3999996
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 1.84
+        inSlope: -2.3999996
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.94
+        inSlope: 0
+        outSlope: -9
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.64
+        inSlope: -9
+        outSlope: -8.999999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.34
+        inSlope: -8.999999
+        outSlope: -19.800001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.32
+        inSlope: -19.800001
+        outSlope: -4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.47
+        inSlope: -4.4999995
+        outSlope: -4.05
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.74
+        inSlope: -4.05
+        outSlope: -15.300001
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02
+        inSlope: 0
+        outSlope: -13.199999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: -0.42
+        inSlope: -13.199999
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -0.42
+        inSlope: 0
+        outSlope: -5.1
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -0.59
+        inSlope: -5.1
+        outSlope: 3.299999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.48
+        inSlope: 3.299999
+        outSlope: 7.5000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.02
+        inSlope: 7.5000005
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.47794116
+        inSlope: 0
+        outSlope: 1.7401956
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.5359477
+        inSlope: 1.7401956
+        outSlope: 1.7401961
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 1.7401961
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -3.7499998
+        outSlope: 29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 29.999998
+        outSlope: -3.7499998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.3
+        value: 0
+        inSlope: -3.7499998
+        outSlope: -3.7499998
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-Skill-Blade-niuqu-reqi_13_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7
+        inSlope: -96
+        outSlope: -12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: -1.5
+        inSlope: -12
+        outSlope: 4.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -1.35
+        inSlope: 4.4999995
+        outSlope: 4.4999986
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -1.2
+        inSlope: 4.4999986
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: -1.2
+        inSlope: 0
+        outSlope: -0.47368416
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 7.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 7.4999995
+        outSlope: -95.100006
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: -1.67
+        inSlope: -95.100006
+        outSlope: 92.69998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.42
+        inSlope: 92.69998
+        outSlope: -0.6631579
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 1
+        inSlope: -0.6631579
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.13
+        inSlope: 0
+        outSlope: 7.4999995
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.63
+        inSlope: 7.4999995
+        outSlope: 9.9
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.96
+        inSlope: 9.9
+        outSlope: 12.299999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.37
+        inSlope: 12.299999
+        outSlope: 0.99473685
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: 2
+        inSlope: 0.99473685
+        outSlope: 0.4894737
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.37
+        inSlope: 0
+        outSlope: 8.099999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.17
+        inSlope: 8.099999
+        outSlope: 27.300003
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1.08
+        inSlope: 27.300003
+        outSlope: -46.199993
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.46
+        inSlope: -46.199993
+        outSlope: 0.14210528
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.76666665
+        value: -0.37
+        inSlope: 0.14210528
+        outSlope: -0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 10
+        inSlope: -37.499996
+        outSlope: -101.99999
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 3.2
+        inSlope: -101.99999
+        outSlope: -3.0000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 3
+        inSlope: -3.0000005
+        outSlope: -5.625
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: -5.625
+        outSlope: -37.499996
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeClip
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7
+        inSlope: -111.299995
+        outSlope: 12
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1.5
+        inSlope: 12
+        outSlope: -12.000004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1.0999999
+        inSlope: -12.000004
+        outSlope: 12.000001
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1.5
+        inSlope: 12.000001
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 1.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.85
+        inSlope: 0
+        outSlope: -6.6
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.41
+        inSlope: -6.6
+        outSlope: -4.5000005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.26
+        inSlope: -4.5000005
+        outSlope: -18.899998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.37
+        inSlope: -18.899998
+        outSlope: -3.3428571
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: -1.15
+        inSlope: -3.3428571
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.1
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.01
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.36666667
+        value: 0.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 0
+        outSlope: -10.808823
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.6397059
+        inSlope: -10.808823
+        outSlope: 3.602941
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 3.602941
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3719213
+        inSlope: 0.12366726
+        outSlope: -0.70658857
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.34836835
+        inSlope: -0.70658857
+        outSlope: -4.920585
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.18434884
+        inSlope: -4.920585
+        outSlope: 1.4046656
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.3248154
+        inSlope: 1.4046656
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.3248154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.3248154
+        inSlope: 0
+        outSlope: -2.4360406
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.11764705
+        inSlope: -0.16544132
+        outSlope: -0.99264705
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 0.084558815
+        inSlope: -0.99264705
+        outSlope: -2.5367644
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0
+        inSlope: -2.5367644
+        outSlope: 0.5147058
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.051470578
+        inSlope: 0.5147058
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.051470578
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.051470578
+        inSlope: 0
+        outSlope: -0.93749994
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -0.14249995
+        outSlope: 29.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.033333335
+        value: 1
+        inSlope: 29.999998
+        outSlope: -13.52941
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.54901963
+        inSlope: -13.52941
+        outSlope: 4.509804
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 4.509804
+        outSlope: -6.7647057
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.54901963
+        inSlope: -6.7647057
+        outSlope: -5.4901958
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: -5.4901958
+        outSlope: -7.3574996
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E1-Skill-Blade-niuqu-reqi_02_1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6029412
+        inSlope: 11.911763
+        outSlope: 5.9558816
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 5.9558816
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1680408
+        inSlope: 9.928349
+        outSlope: 4.9641743
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.49898577
+        inSlope: 4.9641743
+        outSlope: -0.23123711
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0.47586206
+        inSlope: -0.23123711
+        outSlope: -0.2312371
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.03990052
+        inSlope: 0.12651332
+        outSlope: 0.06325666
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 0.04411763
+        inSlope: 0.06325666
+        outSlope: -0.4411763
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 0
+        inSlope: -0.4411763
+        outSlope: -0.44117627
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.06666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.16666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseAlphaAdd
+    path: E3-Skill-Blade-niuqu-reqi_14_1
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: E1-Skill-Blade-niuqu-reqi_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: E3-Skill-Blade-niuqu-reqi_13
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

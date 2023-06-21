@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: effect_gy008_cf029
+  m_Shader: {fileID: 4800000, guid: 76f8a8247a9952a4393b35768748ecaa, type: 3}
+  m_ShaderKeywords: ZQLTGLOW_GLOW_GLOWCOLOR ZQLTGLOW_MULTIPLY_OFF
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _GlowTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 45cfdafb818692e4da347c736cdd356a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 1e85f00f2a0b484478e0432fc5c0cd13, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Alpha
+      second: 1
+    - first:
+        name: _GlowStrength
+      second: 0
+    m_Colors:
+    - first:
+        name: _GlowColor
+      second: {r: 0.39705884, g: 0.47606486, b: 1, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 0.50735295, g: 0.9184584, b: 1, a: 1}

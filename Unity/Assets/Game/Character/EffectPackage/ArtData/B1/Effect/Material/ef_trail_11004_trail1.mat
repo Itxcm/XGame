@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef_trail_11004_trail1
+  m_Shader: {fileID: 4800000, guid: 67396c702ed9e0a49a8c7e2993c03262, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Blend_Texture:
+        m_Texture: {fileID: 2800000, guid: 5a56f49da1731a140953cdab6f6f4cf4, type: 3}
+        m_Scale: {x: 1.2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _Blend_Texture01:
+        m_Texture: {fileID: 2800000, guid: 4fbc219eab5a4bc49a5618f22cee7a15, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DispMap:
+        m_Texture: {fileID: 2800000, guid: 463f3e17448c6f147a7b7811acdfb56f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveSrc:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d84714eb017bd11478ee6b73c75160c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 9aac55b496e4d93428a945a05cde968e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: c9b1142136b57f44ab962342806f3b75, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AllPower: 1
+    - _AlphaPower: 4
+    - _Amount: 0.5
+    - _DispScrollSpeedX: 1
+    - _DispScrollSpeedY: 1
+    - _DispX: 0
+    - _DispY: 0.2
+    - _ForceX: 0.08
+    - _ForceY: 0
+    - _HeatForce: 0.1
+    - _HeatTime: 0.18
+    - _InnerColorPower: 0.5
+    - _InvFade: 1
+    - _Lighten: 10
+    - _LightenMain: 0.15
+    - _RimPower: 2.5
+    - _Speed00: 0
+    - _Speed01: -90
+    - _Speed02: 0
+    - _StrengthX: 10
+    - _StrengthY: -42.26
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color01: {r: 0.44117647, g: 0.66054773, b: 0.75, a: 1}
+    - _Color02: {r: 0.63235295, g: 0.63235295, b: 0.63235295, a: 0.928}
+    - _Color03: {r: 1, g: 1, b: 1, a: 0.903}
+    - _InnerColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _RimColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}

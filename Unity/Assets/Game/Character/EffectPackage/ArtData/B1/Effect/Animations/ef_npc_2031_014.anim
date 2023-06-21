@@ -1,0 +1,959 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef_npc_2031_014
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0
+        inSlope: 7.5000005
+        outSlope: 9.999991
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 9.999991
+        outSlope: 0.24999985
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1.05
+        inSlope: 0.24999985
+        outSlope: 0.074999936
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4
+        value: 1.06
+        inSlope: 0.074999936
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0.259
+        inSlope: 0.7157142
+        outSlope: 0.83500004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.426
+        inSlope: 0.83500004
+        outSlope: 1.7057142
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.824
+        inSlope: 1.7057142
+        outSlope: 5.280005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4333333
+        value: 1
+        inSlope: 5.280005
+        outSlope: 10.56001
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Amount
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0.419
+        inSlope: -0.63999957
+        outSlope: -0.63999957
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.355
+        inSlope: -0.0049996376
+        outSlope: -0.0049996376
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.481
+        inSlope: -1.11375
+        outSlope: -1.11375
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.1
+        inSlope: -2.8575003
+        outSlope: -2.8575003
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeFactor
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.9117647
+        inSlope: -1.3235254
+        outSlope: -1.3235254
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.86764705
+        inSlope: 0.33088535
+        outSlope: 0.33088535
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.9338235
+        inSlope: 1.1029423
+        outSlope: 1.1029423
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.9411765
+        inSlope: -0.4411764
+        outSlope: -0.4411764
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.9044118
+        inSlope: 0.5514668
+        outSlope: 0.5514668
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.97794116
+        inSlope: 1.2683791
+        outSlope: 1.2683791
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: -0.27573496
+        outSlope: -0.27573496
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.88235295
+        inSlope: -0.88235295
+        outSlope: -0.88235295
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.30607948
+        inSlope: -1.0620519
+        outSlope: -1.0620519
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.27067766
+        inSlope: -0.5225189
+        outSlope: -0.5225189
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.2712448
+        inSlope: 0.64763296
+        outSlope: 0.64763296
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.31385314
+        inSlope: 0.38230458
+        outSlope: 0.38230458
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.29673174
+        inSlope: 0.89354515
+        outSlope: 0.89354515
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.37342304
+        inSlope: 0.015516281
+        outSlope: 0.015516281
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.22210982
+        inSlope: -1.2147183
+        outSlope: -1.2147183
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.20081165
+        inSlope: -0.15973629
+        outSlope: -0.15973629
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.03352074
+        inSlope: 0.52551824
+        outSlope: 0.52551824
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.05103806
+        inSlope: -0.09083077
+        outSlope: -0.09083077
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.027465424
+        inSlope: 0.4801045
+        outSlope: 0.4801045
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.083045
+        inSlope: 0.68528384
+        outSlope: 0.68528384
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.07315097
+        inSlope: 1.0194064
+        outSlope: 1.0194064
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.15100564
+        inSlope: 0.36615616
+        outSlope: 0.36615616
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.04411763
+        inSlope: -0.96710193
+        outSlope: -0.96710193
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0
+        inSlope: -0.33088225
+        outSlope: -0.33088225
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 1
+        inSlope: -7.5899806
+        outSlope: -7.5899806
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.747
+        inSlope: 0.000013589859
+        outSlope: 0.000013589859
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 1
+        inSlope: 3.795004
+        outSlope: 3.795004
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 2151584503
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 2167080503
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 1303350129
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 1571785585
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 1840221041
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 2108656497
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3643870472
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.4333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0
+        inSlope: 7.5000005
+        outSlope: 9.999991
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 1
+        inSlope: 9.999991
+        outSlope: 0.24999985
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1.05
+        inSlope: 0.24999985
+        outSlope: 0.074999936
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4
+        value: 1.06
+        inSlope: 0.074999936
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0.259
+        inSlope: 0.7157142
+        outSlope: 0.83500004
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.426
+        inSlope: 0.83500004
+        outSlope: 1.7057142
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.824
+        inSlope: 1.7057142
+        outSlope: 5.280005
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.4333333
+        value: 1
+        inSlope: 5.280005
+        outSlope: 10.56001
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Amount
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.96666664
+        value: 0.419
+        inSlope: -0.63999957
+        outSlope: -0.63999957
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.355
+        inSlope: -0.0049996376
+        outSlope: -0.0049996376
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.481
+        inSlope: -1.11375
+        outSlope: -1.11375
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.1
+        inSlope: -2.8575003
+        outSlope: -2.8575003
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EdgeFactor
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.9117647
+        inSlope: -1.3235254
+        outSlope: -1.3235254
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.86764705
+        inSlope: 0.33088535
+        outSlope: 0.33088535
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.9338235
+        inSlope: 1.1029423
+        outSlope: 1.1029423
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.9411765
+        inSlope: -0.4411764
+        outSlope: -0.4411764
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.9044118
+        inSlope: 0.5514668
+        outSlope: 0.5514668
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.97794116
+        inSlope: 1.2683791
+        outSlope: 1.2683791
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: -0.27573496
+        outSlope: -0.27573496
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.88235295
+        inSlope: -0.88235295
+        outSlope: -0.88235295
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.30607948
+        inSlope: -1.0620519
+        outSlope: -1.0620519
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.27067766
+        inSlope: -0.5225189
+        outSlope: -0.5225189
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.2712448
+        inSlope: 0.64763296
+        outSlope: 0.64763296
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.31385314
+        inSlope: 0.38230458
+        outSlope: 0.38230458
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.29673174
+        inSlope: 0.89354515
+        outSlope: 0.89354515
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.37342304
+        inSlope: 0.015516281
+        outSlope: 0.015516281
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.22210982
+        inSlope: -1.2147183
+        outSlope: -1.2147183
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0.20081165
+        inSlope: -0.15973629
+        outSlope: -0.15973629
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 0.03352074
+        inSlope: 0.52551824
+        outSlope: 0.52551824
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.05103806
+        inSlope: -0.09083077
+        outSlope: -0.09083077
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 0.027465424
+        inSlope: 0.4801045
+        outSlope: 0.4801045
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 0.083045
+        inSlope: 0.68528384
+        outSlope: 0.68528384
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 0.07315097
+        inSlope: 1.0194064
+        outSlope: 1.0194064
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 0.15100564
+        inSlope: 0.36615616
+        outSlope: 0.36615616
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 0.04411763
+        inSlope: -0.96710193
+        outSlope: -0.96710193
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 0
+        inSlope: -0.33088225
+        outSlope: -0.33088225
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.0333333
+        value: 1
+        inSlope: -7.5899806
+        outSlope: -7.5899806
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.0666667
+        value: 0.747
+        inSlope: 0.000013589859
+        outSlope: 0.000013589859
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1
+        value: 1
+        inSlope: 3.795004
+        outSlope: 3.795004
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.1666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.2666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.4
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: lasi_liang
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

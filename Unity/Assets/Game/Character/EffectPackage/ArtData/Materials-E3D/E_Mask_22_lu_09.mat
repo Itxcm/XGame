@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E_Mask_22_lu_09
+  m_Shader: {fileID: 4800000, guid: 268f447a688d4e74480b0d180674defb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 2800000, guid: b53fd8cc16cf77e41b0d35a981f10054, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 1, y: 0}
+    - _MASK:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9aa1d1da35d52064d9a3bef0ddb5654b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 477cdcd2944867a4ab4298c6fe96989c, type: 3}
+        m_Scale: {x: 0.23, y: 3}
+        m_Offset: {x: 0.13, y: 0.4}
+    - _diff:
+        m_Texture: {fileID: 2800000, guid: 1c5fc52387e1ef948b46686537ce5767, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 94b2153e731e37b46a614c6be92ab040, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _noise:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 2.09, y: 0.18}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Diss: 0.5
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Glow: 1
+    - _Soft: 8.75
+    - _Strength: 1
+    - __dirty: 0
+    - _alpha: 2
+    - _power: 20
+    - _speed_u: 0
+    - _speed_v: 0
+    - _strength: 5
+    m_Colors:
+    - _BaseColor: {r: 0.7941176, g: 0, b: 0, a: 1}
+    - _EdgeColor: {r: 2.6770003, g: 0.5905147, b: 0.5905147, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _color: {r: 0.6545505, g: 0.5894247, b: 1, a: 1}

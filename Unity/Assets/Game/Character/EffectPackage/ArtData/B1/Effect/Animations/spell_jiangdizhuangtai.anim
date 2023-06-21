@@ -1,0 +1,2192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: spell_jiangdizhuangtai
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: -0.5833333
+        outSlope: -0.5833333
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: -0.11666667
+        inSlope: -0.5833334
+        outSlope: -0.5833334
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: -0.50555557
+        inSlope: -0.58333325
+        outSlope: -0.58333325
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: -0.7
+        inSlope: -0.5833332
+        outSlope: -0.5833332
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -2.2794116
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5441177
+        inSlope: -2.2794116
+        outSlope: 0.0014705658
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.54509807
+        inSlope: 0.0014705658
+        outSlope: 1.3647057
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 1.3647057
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.40000004
+        inSlope: 0
+        outSlope: -1.0431036
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.19137932
+        inSlope: -1.0431036
+        outSlope: 0.0011663139
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.19215687
+        inSlope: 0.0011663139
+        outSlope: 0.47429082
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.35025382
+        inSlope: 0.47429082
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 2.7272727
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: -0.5
+        outSlope: -0.5
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: -0.6
+        inSlope: -0.5
+        outSlope: -0.5
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.7372549
+        inSlope: 0
+        outSlope: -0.96568614
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5441177
+        inSlope: -0.96568614
+        outSlope: 0.0014705658
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.54509807
+        inSlope: 0.0014705658
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.54509807
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.22745098
+        inSlope: 0
+        outSlope: -0.29293448
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.16886409
+        inSlope: -0.29293448
+        outSlope: -0.00035494566
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.16862746
+        inSlope: -0.00035494566
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.16862746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 2.7272727
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0.41666666
+        outSlope: 0.41666666
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0.41666666
+        outSlope: 0.41666666
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0.125
+        outSlope: 0.125
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.15
+        inSlope: 0.125
+        outSlope: 0.125
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.23529412
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.23529412
+        inSlope: 0
+        outSlope: 0.14705889
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.2647059
+        inSlope: 0.14705889
+        outSlope: 0.21764705
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.3372549
+        inSlope: 0.21764705
+        outSlope: -0.21176471
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.26666668
+        inSlope: -0.21176471
+        outSlope: -0.09411767
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.23529412
+        inSlope: -0.09411767
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.09411765
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.09411765
+        inSlope: 0
+        outSlope: 0.0588236
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.10588237
+        inSlope: 0.0588236
+        outSlope: 0.09411762
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.13725491
+        inSlope: 0.09411762
+        outSlope: -0.09411767
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.105882354
+        inSlope: -0.09411767
+        outSlope: -0.03529411
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.09411765
+        inSlope: -0.03529411
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.4
+        inSlope: 0.8333333
+        outSlope: 0.8333333
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.6
+        inSlope: 0.8333333
+        outSlope: 0.8333333
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1
+        value: 0
+        inSlope: 67.50001
+        outSlope: 60
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 8
+        inSlope: 60
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 8
+        inSlope: 0
+        outSlope: -23.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -23.999998
+        outSlope: -20.699997
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Alpha
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1
+        inSlope: 2.237395
+        outSlope: 2.237395
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.r
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.5336714
+        inSlope: 0.9678046
+        outSlope: 0.9678046
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.g
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.44117647
+        inSlope: 0.71598506
+        outSlope: 0.71598506
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.b
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.78431374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.a
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 646366601
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 1090582214
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 1359017670
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 1895888582
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 971151729
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 2333735666
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 1136458424
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 1404893880
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 1673329336
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1214718589
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 914802057
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 186351964
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 109495689
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 377931145
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3799524457
+      attribute: 1627453126
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 165845361
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 434280817
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 702716273
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2089593692
+      attribute: 1941764792
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.3333334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: -0.5833333
+        outSlope: -0.5833333
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: -0.11666667
+        inSlope: -0.5833334
+        outSlope: -0.5833334
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: -0.50555557
+        inSlope: -0.58333325
+        outSlope: -0.58333325
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: -0.7
+        inSlope: -0.5833332
+        outSlope: -0.5833332
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: -2.2794116
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5441177
+        inSlope: -2.2794116
+        outSlope: 0.0014705658
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.54509807
+        inSlope: 0.0014705658
+        outSlope: 1.3647057
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 1.3647057
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.40000004
+        inSlope: 0
+        outSlope: -1.0431036
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.19137932
+        inSlope: -1.0431036
+        outSlope: 0.0011663139
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.19215687
+        inSlope: 0.0011663139
+        outSlope: 0.47429082
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.35025382
+        inSlope: 0.47429082
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 2.7272727
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E1-spell_jiangdizhuangtai_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: -0.5
+        outSlope: -0.5
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: -0.6
+        inSlope: -0.5
+        outSlope: -0.5
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.7372549
+        inSlope: 0
+        outSlope: -0.96568614
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.5441177
+        inSlope: -0.96568614
+        outSlope: 0.0014705658
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.54509807
+        inSlope: 0.0014705658
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.54509807
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.22745098
+        inSlope: 0
+        outSlope: -0.29293448
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.16886409
+        inSlope: -0.29293448
+        outSlope: -0.00035494566
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.16862746
+        inSlope: -0.00035494566
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.16862746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 2.7272727
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-spell_jiangdizhuangtai_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.x
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.y
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0.41666666
+        outSlope: 0.41666666
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.5
+        inSlope: 0.41666666
+        outSlope: 0.41666666
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.z
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0.125
+        outSlope: 0.125
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.15
+        inSlope: 0.125
+        outSlope: 0.125
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._MainTex_ST.w
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.23529412
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.23529412
+        inSlope: 0
+        outSlope: 0.14705889
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.2647059
+        inSlope: 0.14705889
+        outSlope: 0.21764705
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.3372549
+        inSlope: 0.21764705
+        outSlope: -0.21176471
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.26666668
+        inSlope: -0.21176471
+        outSlope: -0.09411767
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.23529412
+        inSlope: -0.09411767
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.r
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.09411765
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0.09411765
+        inSlope: 0
+        outSlope: 0.0588236
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0.10588237
+        inSlope: 0.0588236
+        outSlope: 0.09411762
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.13725491
+        inSlope: 0.09411762
+        outSlope: -0.09411767
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0.105882354
+        inSlope: -0.09411767
+        outSlope: -0.03529411
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.09411765
+        inSlope: -0.03529411
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.g
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.b
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 65
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 5
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.33333334
+        value: 1
+        inSlope: 5
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: -2.9999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -2.9999998
+        outSlope: -2
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._TintColor.a
+    path: E3-spell_jiangdizhuangtai_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.x
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.y
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.z
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.13333334
+        value: -0.4
+        inSlope: 0.8333333
+        outSlope: 0.8333333
+        tangentMode: 34
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0.6
+        inSlope: 0.8333333
+        outSlope: 0.8333333
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseRGBA_ST.w
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.1
+        value: 0
+        inSlope: 67.50001
+        outSlope: 60
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 8
+        inSlope: 60
+        outSlope: -0
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1
+        value: 8
+        inSlope: 0
+        outSlope: -23.999998
+        tangentMode: 69
+      - serializedVersion: 2
+        time: 1.3333334
+        value: 0
+        inSlope: -23.999998
+        outSlope: -20.699997
+        tangentMode: 69
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Alpha
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 1
+        inSlope: 2.237395
+        outSlope: 2.237395
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.r
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.5336714
+        inSlope: 0.9678046
+        outSlope: 0.9678046
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.g
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.44117647
+        inSlope: 0.71598506
+        outSlope: 0.71598506
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.b
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.23333333
+        value: 0.78431374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.a
+    path: E2-spell_jiangdizhuangtai_13
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

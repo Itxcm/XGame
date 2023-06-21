@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef_trail_11018_trail3
+  m_Shader: {fileID: 4800000, guid: 384b4cb3a762edf4496ef77190d69485, type: 3}
+  m_ShaderKeywords: _2UVBASE_ON _2UVSHAPE_ON
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BaseRGBA
+      second:
+        m_Texture: {fileID: 2800000, guid: 82ada1728ed2bc8488c6d58c0dc64888, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.02, y: 0}
+    - first:
+        name: _Blend_Texture
+      second:
+        m_Texture: {fileID: 2800000, guid: 2143d715b86fc0742a1b019bd3ed6c5c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Blend_Texture01
+      second:
+        m_Texture: {fileID: 2800000, guid: 888a5692628246c4c96ba3bbef763787, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DispMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 463f3e17448c6f147a7b7811acdfb56f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: faa414be65de2d74fa2184cea0fd35be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MaskTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 703e1d637df08ae4ba35c7db6235101e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NoiseTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShapeRGB
+      second:
+        m_Texture: {fileID: 2800000, guid: 9727da9c1f9e81b42a30b87bd3b5a1e9, type: 3}
+        m_Scale: {x: 1.5, y: 1}
+        m_Offset: {x: 0.15, y: 0}
+    m_Floats:
+    - first:
+        name: _2uvBase
+      second: 1
+    - first:
+        name: _2uvShape
+      second: 1
+    - first:
+        name: _Alpha
+      second: 1
+    - first:
+        name: _DispScrollSpeedX
+      second: 1
+    - first:
+        name: _DispScrollSpeedY
+      second: 1
+    - first:
+        name: _DispX
+      second: 0
+    - first:
+        name: _DispY
+      second: 0.2
+    - first:
+        name: _ForceX
+      second: 0.1
+    - first:
+        name: _ForceY
+      second: 0.1
+    - first:
+        name: _HeatForce
+      second: 0.1
+    - first:
+        name: _HeatTime
+      second: 0
+    - first:
+        name: _InvFade
+      second: 1
+    - first:
+        name: _Lighten
+      second: 10
+    - first:
+        name: _LightenMain
+      second: 0.3
+    - first:
+        name: _Speed00
+      second: 0
+    - first:
+        name: _Speed01
+      second: 0
+    - first:
+        name: _Speed02
+      second: 0
+    - first:
+        name: _StrengthX
+      second: 10
+    - first:
+        name: _StrengthY
+      second: -42.26
+    m_Colors:
+    - first:
+        name: _BaseColor
+      second: {r: 0.10726642, g: 0.19997606, b: 0.4705882, a: 1}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _Color01
+      second: {r: 0.29579026, g: 0.093858115, b: 0.41176468, a: 1}
+    - first:
+        name: _Color02
+      second: {r: 0.31622976, g: 0.019733984, b: 0.53676474, a: 1}
+    - first:
+        name: _Color03
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 0.36764705, g: 0.6598378, b: 1, a: 1}

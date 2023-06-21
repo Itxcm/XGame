@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: E_MeshUv_32_qm_01
+  m_Shader: {fileID: 4800000, guid: 268f447a688d4e74480b0d180674defb, type: 3}
+  m_ShaderKeywords: _NODE_8822_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 370f493ca90b9724eb6d2e847d2632da, type: 3}
+        m_Scale: {x: 1, y: 1.27}
+        m_Offset: {x: 3.28, y: -0.79}
+    - _BaseMaskMap:
+        m_Texture: {fileID: 2800000, guid: 82f5b0a2ed11199498833c413b6e445f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: -0.13}
+    - _Gradient:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 82580b59ccc3999448eb89d3801be20d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: -1, y: 0}
+    - _Maintex:
+        m_Texture: {fileID: 2800000, guid: 82580b59ccc3999448eb89d3801be20d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: e444299a922681e429fb2d315b360efd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: fe9af1b61aa108742aa3262311414999, type: 3}
+        m_Scale: {x: 1, y: 2.11}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 5, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diff:
+        m_Texture: {fileID: 2800000, guid: b5a5f24e0668f384e918f2a99c2ddfc0, type: 3}
+        m_Scale: {x: 1, y: 0.5}
+        m_Offset: {x: 0, y: 0.32}
+    - _diff_copy:
+        m_Texture: {fileID: 2800000, guid: cbe4f943d54f64d4f8ed0bf929817304, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: b797f504c46da624da949ac7f2cc56c0, type: 3}
+        m_Scale: {x: 0.71, y: 0.51}
+        m_Offset: {x: 0, y: 0}
+    - _mask_copy:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _noise:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 0.49, y: 0.45}
+        m_Offset: {x: 0.49, y: 0.66}
+    - _noise_copy:
+        m_Texture: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 1
+    - _Brightness: 10
+    - _Cutoff: 0.5
+    - _Diss: 1
+    - _EdgeIntensity: 0.328
+    - _FaceBaseColor: 1
+    - _FaceEdgeColor: 1
+    - _Follow: 0
+    - _Glow: 1
+    - _InvFade: 3
+    - _Noise: 0.14
+    - _Pow: 31.97
+    - _Power: 3
+    - _Soft: 50
+    - _Uspeed: -0.48
+    - _Vspeed: 0.1
+    - __dirty: 0
+    - _alpha: 1.51
+    - _diss_u: 0
+    - _diss_u_copy: 0
+    - _diss_v: -0.39
+    - _diss_v_copy: 0
+    - _node_6774: 0
+    - _node_8822: 1
+    - _pow: 1
+    - _power: 7
+    - _speed_u: -0.5
+    - _speed_u_copy: 0
+    - _speed_v: 0
+    - _speed_v_copy: 0
+    - _strenght: 1
+    - _strength: 20
+    - _strength_copy: 2
+    m_Colors:
+    - _BaseColor: {r: 2.9107509, g: 1.2132347, b: 5, a: 0.783}
+    - _EdgeColor: {r: 1, g: 0.732353, b: 0.3308824, a: 1}
+    - _MaskSpeed: {r: -0.1, g: 0.3, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0.2, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 0.77205884, g: 0.77205884, b: 0.77205884, a: 1}
+    - _color: {r: 0, g: 0, b: 0, a: 0.778}
+    - _color_copy: {r: 1, g: 1, b: 1, a: 1}
