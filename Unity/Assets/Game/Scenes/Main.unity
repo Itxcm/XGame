@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 43393508}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1992956948, guid: acc9e786b153ec243914242adac0cddc, type: 3}
+  m_Script: {fileID: 1992956948, guid: 7c399dc51e50c3344bda5286535ae558, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   global: 1

@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: aa3dccadffe468241a81647d202ec75a
+timeCreated: 1474615724
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger0Nub
+    100016: Bip01 L Foot
+    100018: Bip01 L Forearm
+    100020: Bip01 L Hand
+    100022: Bip01 L Thigh
+    100024: Bip01 L Toe0
+    100026: Bip01 L Toe01
+    100028: Bip01 L Toe0Nub
+    100030: Bip01 L Toe1
+    100032: Bip01 L Toe11
+    100034: Bip01 L Toe1Nub
+    100036: Bip01 L Toe2
+    100038: Bip01 L Toe21
+    100040: Bip01 L Toe2Nub
+    100042: Bip01 L Toe3
+    100044: Bip01 L Toe31
+    100046: Bip01 L Toe3Nub
+    100048: Bip01 L UpperArm
+    100050: Bip01 Neck
+    100052: Bip01 Pelvis
+    100054: Bip01 R Calf
+    100056: Bip01 R Clavicle
+    100058: Bip01 R Finger0
+    100060: Bip01 R Finger0Nub
+    100062: Bip01 R Foot
+    100064: Bip01 R Forearm
+    100066: Bip01 R Hand
+    100068: Bip01 R Thigh
+    100070: Bip01 R Toe0
+    100072: Bip01 R Toe01
+    100074: Bip01 R Toe0Nub
+    100076: Bip01 R Toe1
+    100078: Bip01 R Toe11
+    100080: Bip01 R Toe1Nub
+    100082: Bip01 R Toe2
+    100084: Bip01 R Toe21
+    100086: Bip01 R Toe2Nub
+    100088: Bip01 R Toe3
+    100090: Bip01 R Toe31
+    100092: Bip01 R Toe3Nub
+    100094: Bip01 R UpperArm
+    100096: Bip01 Spine
+    100098: Bip01 Spine1
+    100100: Bone01
+    100102: Bone02
+    100104: Bone03
+    100106: Bone04
+    100108: Bone05
+    100110: Bone06
+    100112: Bone07
+    100114: Bone08
+    100116: Bone09
+    100118: Bone10
+    100120: Bone11
+    100122: Bone12
+    100124: Bone13
+    100126: Bone14
+    100128: Bone15
+    100130: Bone16
+    100132: Bone17
+    100134: Bone18
+    100136: Bone19
+    100138: Bone20
+    100140: Bone21
+    100142: Bone22
+    100144: Bone23
+    100146: Bone24
+    100148: Bone25
+    100150: Bone26
+    100152: Bone27
+    100154: Bone28
+    100156: Bone29
+    100158: Bone30
+    100160: Bone31
+    100162: Bone32
+    100164: Bone33
+    100166: Bone34
+    100168: Bone35
+    100170: Bone36
+    100172: Bone37
+    100174: Bone38
+    100176: Bone39
+    100178: Bone40
+    100180: Bone41
+    100182: Bone42
+    100184: Bone43
+    100186: Bone44
+    100188: Bone45
+    100190: Bone46
+    100192: Bone47
+    100194: Bone48
+    100196: Bone49
+    100198: Bone50
+    100200: Bone51
+    100202: Bone52
+    100204: Bone53
+    100206: Bone54
+    100208: Bone55
+    100210: Bone56
+    100212: Bone57
+    100214: Bone58
+    100216: Bone59
+    100218: Bone60
+    100220: Bone61
+    100222: Bone62
+    100224: Bone63
+    100226: Bone64
+    100228: Bone65
+    100230: Bone66
+    100232: //RootNode
+    100234: Mount-101-Phoenix01
+    100236: MTD
+    100238: MTD 1
+    100240: MTD 2
+    100242: MTD 3
+    100244: MTD 4
+    100246: MTD 5
+    100248: MTD 6
+    100250: Particle View 01
+    100252: ride
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger0Nub
+    400016: Bip01 L Foot
+    400018: Bip01 L Forearm
+    400020: Bip01 L Hand
+    400022: Bip01 L Thigh
+    400024: Bip01 L Toe0
+    400026: Bip01 L Toe01
+    400028: Bip01 L Toe0Nub
+    400030: Bip01 L Toe1
+    400032: Bip01 L Toe11
+    400034: Bip01 L Toe1Nub
+    400036: Bip01 L Toe2
+    400038: Bip01 L Toe21
+    400040: Bip01 L Toe2Nub
+    400042: Bip01 L Toe3
+    400044: Bip01 L Toe31
+    400046: Bip01 L Toe3Nub
+    400048: Bip01 L UpperArm
+    400050: Bip01 Neck
+    400052: Bip01 Pelvis
+    400054: Bip01 R Calf
+    400056: Bip01 R Clavicle
+    400058: Bip01 R Finger0
+    400060: Bip01 R Finger0Nub
+    400062: Bip01 R Foot
+    400064: Bip01 R Forearm
+    400066: Bip01 R Hand
+    400068: Bip01 R Thigh
+    400070: Bip01 R Toe0
+    400072: Bip01 R Toe01
+    400074: Bip01 R Toe0Nub
+    400076: Bip01 R Toe1
+    400078: Bip01 R Toe11
+    400080: Bip01 R Toe1Nub
+    400082: Bip01 R Toe2
+    400084: Bip01 R Toe21
+    400086: Bip01 R Toe2Nub
+    400088: Bip01 R Toe3
+    400090: Bip01 R Toe31
+    400092: Bip01 R Toe3Nub
+    400094: Bip01 R UpperArm
+    400096: Bip01 Spine
+    400098: Bip01 Spine1
+    400100: Bone01
+    400102: Bone02
+    400104: Bone03
+    400106: Bone04
+    400108: Bone05
+    400110: Bone06
+    400112: Bone07
+    400114: Bone08
+    400116: Bone09
+    400118: Bone10
+    400120: Bone11
+    400122: Bone12
+    400124: Bone13
+    400126: Bone14
+    400128: Bone15
+    400130: Bone16
+    400132: Bone17
+    400134: Bone18
+    400136: Bone19
+    400138: Bone20
+    400140: Bone21
+    400142: Bone22
+    400144: Bone23
+    400146: Bone24
+    400148: Bone25
+    400150: Bone26
+    400152: Bone27
+    400154: Bone28
+    400156: Bone29
+    400158: Bone30
+    400160: Bone31
+    400162: Bone32
+    400164: Bone33
+    400166: Bone34
+    400168: Bone35
+    400170: Bone36
+    400172: Bone37
+    400174: Bone38
+    400176: Bone39
+    400178: Bone40
+    400180: Bone41
+    400182: Bone42
+    400184: Bone43
+    400186: Bone44
+    400188: Bone45
+    400190: Bone46
+    400192: Bone47
+    400194: Bone48
+    400196: Bone49
+    400198: Bone50
+    400200: Bone51
+    400202: Bone52
+    400204: Bone53
+    400206: Bone54
+    400208: Bone55
+    400210: Bone56
+    400212: Bone57
+    400214: Bone58
+    400216: Bone59
+    400218: Bone60
+    400220: Bone61
+    400222: Bone62
+    400224: Bone63
+    400226: Bone64
+    400228: Bone65
+    400230: Bone66
+    400232: //RootNode
+    400234: Mount-101-Phoenix01
+    400236: MTD
+    400238: MTD 1
+    400240: MTD 2
+    400242: MTD 3
+    400244: MTD 4
+    400246: MTD 5
+    400248: MTD 6
+    400250: Particle View 01
+    400252: ride
+    4300000: Mount-101-Phoenix01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mount-101-Phoenix01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

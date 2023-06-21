@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 266e8bea9c48bef4f9c3257b68b1d0f4
+timeCreated: 1492854999
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ToonRamp: {fileID: 2800000, guid: be235537fe90a8541a39608ea9cbbec7, type: 3}
+  - MatCap: {fileID: 2800000, guid: 946fc1b7e2cc06747bd2664598a2374f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,7 +9,6 @@ Unity/[Oo]bj/
 Unity/[Bb]uild/
 Unity/[Bb]uilds/
 Unity/[Ll]ogs/
-Unity/[Uu]ser[Ss]ettings/
 
 # Unity生成的文件
 sysinfo.txt
@@ -44,7 +43,6 @@ bld/
 *_p.c
 *_h.h
 *.ilk
-*.meta
 *.obj
 *.pch
 *.pdb
@@ -194,3 +192,6 @@ orleans.codegen.cs
 # JetBrains Rider相关忽略
 .idea/
 *.sln.iml
+
+# 强制保留文件
+# !**/Unity/Packages/

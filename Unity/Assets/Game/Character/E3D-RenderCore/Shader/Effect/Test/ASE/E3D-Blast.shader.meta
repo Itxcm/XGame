@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a965870bdfcd4214cb621e15ec548cd1
+timeCreated: 1543220115
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _DissloveMap: {fileID: 2800000, guid: 723d609500fd514409fabd10ed79ed0e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

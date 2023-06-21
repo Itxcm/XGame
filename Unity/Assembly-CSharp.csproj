@@ -158,6 +158,7 @@
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderZelda\Fire.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Effect-Shader\Dev\EffectDevBaseAlphaBlendVC.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Effect-Shader\AirDistort\E3D-AirDistort-AutoNoise-Mask-D.shader" />
+    <None Include="Assets\XGame\Plugins\log4net.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderN\E3D_EF_Screen_Tex_Alpha.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderN\E3D_EF_TextureLerp.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\xf_heat_distortion.shader" />
@@ -202,7 +203,6 @@
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Effect-Shader\UV\E3DVFX-3T-UV-VC-Add.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3DEffect-C2-Add-Glow.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Skybox\CubeMaterial\SkyCube.shader" />
-    <None Include="Assets\XGame\Plugins\protobuf-net.dll" />
     <None Include="Assets\3rd\RPG Cameras &amp; Controllers\Demo\3DGamekit\Art\Shaders\GroundCover.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3D-SoftEdge-1T-Base-Alpha-Add2.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderZelda\E3D_EF_Blast_3T_3C.shader" />
@@ -225,7 +225,6 @@
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderO\E3D_EF_Add.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\SoftEdge-1T-Base-Alpha-Blended.shader" />
     <None Include="Assets\3rd\RPG Cameras &amp; Controllers\Demo\3DGamekit\Art\Shaders\Terrain.shader" />
-    <None Include="Assets\XGame\Plugins\Protocol.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Test\SF\Particle\ParticleAddTest.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3DEffect-C1-Add.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\SoftEdge-2T-DarkBlender.shader" />
@@ -235,16 +234,17 @@
     <None Include="Assets\3rd\RPG Cameras &amp; Controllers\Demo\3DGamekit\Art\Shaders\GroundFog.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderO\E3D_EF_Blend_Diss.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\SoftEdge-1T-Base-Alpha-Add-1.shader" />
-    <None Include="Assets\XGame\Plugins\Share.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\PBR\E3D-ActorPBR-Mask-Normal.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Actor-STHair\E3D-TSHair-2U-AlphaBlender.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Glow\Light-GlowMap-Alpha.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderO\E3D_EF_Blend2.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderO\E3D_EF_Blender_Mask.shader" />
     <None Include="Assets\Game\Character\EffectPackage\ArtData\JR1\Effects\Shaders\E\E3D\E3D_EF_31_ADD_Top3.shader" />
+    <None Include="Assets\XGame\Plugins\protobuf-net.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Test\ASE\E3D-Blast.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\SoftEdge-1T-Base-Alpha-Blended-2.shader" />
     <None Include="Assets\3rd\Suntail Village\Demo\Readme.txt" />
+    <None Include="Assets\XGame\Plugins\Share.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3DEffect-C0-Falloff.shader" />
     <None Include="Assets\3rd\RPG Cameras &amp; Controllers\Demo\3DGamekit\Art\Shaders\Stonework.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3DEffect-C2-HardEdge-Opaque.shader" />
@@ -273,11 +273,9 @@
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Dev\E3DDev-AlbedoTest.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\PBR\E3D-ActorPBR-Hair.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\E3DEffect-C1-Add-Disslove.shader" />
-    <None Include="Assets\XGame\Plugins\Client.dll" />
     <None Include="Assets\Game\Character\EffectPackage\ArtData\JR1\Effects\Shaders\E\E3D\E3D_EF_31_ADD_Top2.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Test\SF\Dissolve\Test1.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderN\E3D_EF_Fire_Anim.shader" />
-    <None Include="Assets\XGame\Plugins\log4net.dll" />
     <None Include="Assets\3rd\Suntail Village\Shaders\Suntail_Foliage.shader" />
     <None Include="Assets\3rd\RPG Cameras &amp; Controllers\Misc\Shaders\Bumped Diffuse with ZWrite.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Actor-STHair\E3D-TSHair-1U-AlphaTest.shader" />
@@ -293,8 +291,10 @@
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\SoftEdge-2T-RingUv.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Test\ASE\Speed\SpeedXYTest.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Slash\OM_UV-Rotate-Dist.shader" />
+    <None Include="Assets\XGame\Plugins\Client.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\E3D-Effect-Shader\AirDistort\E3D-AirDistort-AutoNoise-Mask.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderB\Additive Turbulence.shader" />
+    <None Include="Assets\XGame\Plugins\Protocol.dll" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\ShaderN\E3D_EF_AirWave.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\PBR\E3D-ActorPBR-Rs-Face.shader" />
     <None Include="Assets\Game\Character\E3D-RenderCore\Shader\Effect\Test\E3D_EF_AlphaBlendTest2.shader" />
@@ -553,6 +553,9 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>D:\Unity daiload\2022.3.0f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
+    <Reference Include="log4net">
+      <HintPath>Assets\XGame\Plugins\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.3\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
@@ -562,12 +565,6 @@
     <Reference Include="protobuf-net">
       <HintPath>Assets\XGame\Plugins\protobuf-net.dll</HintPath>
     </Reference>
-    <Reference Include="log4net">
-      <HintPath>Assets\XGame\Plugins\log4net.dll</HintPath>
-    </Reference>
-    <Reference Include="Protocol">
-      <HintPath>Assets\XGame\Plugins\Protocol.dll</HintPath>
-    </Reference>
     <Reference Include="Share">
       <HintPath>Assets\XGame\Plugins\Share.dll</HintPath>
     </Reference>
@@ -576,6 +573,9 @@
     </Reference>
     <Reference Include="Client">
       <HintPath>Assets\XGame\Plugins\Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Protocol">
+      <HintPath>Assets\XGame\Plugins\Protocol.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>D:\Unity daiload\2022.3.0f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>

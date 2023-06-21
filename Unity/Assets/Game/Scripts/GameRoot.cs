@@ -1,9 +1,7 @@
 using ITXCM.Manager;
-using System.IO;
 using UnityEngine.SceneManagement;
 using XClient;
 using XClient.MVC;
-using XShare;
 
 public class GameRoot : MonoSingleton<GameRoot>
 {
@@ -13,10 +11,10 @@ public class GameRoot : MonoSingleton<GameRoot>
     private void Awake()
     {
         // 初始化日志
-        FileInfo fi = new FileInfo("log4net.config");
-        log4net.Config.XmlConfigurator.ConfigureAndWatch(fi);
-        Log.Init("GameServer");
-        Log.Info("Game Server Init");
+        /*     FileInfo fi = new FileInfo("log4net.config");
+             log4net.Config.XmlConfigurator.ConfigureAndWatch(fi);
+             Log.Init("GameServer");
+             Log.Info("Game Server Init");*/
 
         NetService.Instance.Init();
         UserService.Instance.Init();
