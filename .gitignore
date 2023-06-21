@@ -137,7 +137,7 @@ PublishScripts/
 # NuGet Packages
 *.nupkg
 # The packages folder can be ignored because of Package Restore
-**/[Pp]ackages/*
+**/Server/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
@@ -194,4 +194,3 @@ orleans.codegen.cs
 *.sln.iml
 
 # 强制保留文件
-# !**/Unity/Packages/
