@@ -2,13 +2,14 @@
 *.log
 
 # Unity相关忽略
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Unity/.plastic/
+Unity/[Ll]ibrary/
+Unity/[Tt]emp/
+Unity/[Oo]bj/
+Unity/[Bb]uild/
+Unity/[Bb]uilds/
+Unity/[Ll]ogs/
+Unity/[Uu]ser[Ss]ettings/
 
 # Unity生成的文件
 sysinfo.txt
