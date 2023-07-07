@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 43393511}
   - component: {fileID: 43393512}
   - component: {fileID: 43393513}
+  - component: {fileID: 43393514}
   m_Layer: 0
   m_Name: GameRoot
   m_TagString: Untagged
@@ -202,6 +203,20 @@ MonoBehaviour:
   global: 1
   IP: 127.0.0.1
   Port: 8000
+--- !u!114 &43393514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43393508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7d21ac2e884334408e9a417aac71d4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  global: 1
+  CharacterView: {fileID: 3508304374670034068, guid: bf9d973f901d6fa4bb1396f0aa2c73ed, type: 3}
 --- !u!1 &780179417
 GameObject:
   m_ObjectHideFlags: 0

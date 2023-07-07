@@ -71,6 +71,7 @@
     <Compile Include="Assets\3rd\CharacterArtpack\Cloth\SpringCollider.cs" />
     <Compile Include="Assets\Game\Scripts\Manager\CharacterManager.cs" />
     <Compile Include="Assets\Game\Character\EffectPackage\ArtData\B1\Effect\Scripts\GlobalShaderPropertyEditor.cs" />
+    <Compile Include="Assets\Game\Scripts\Manager\AssetManager.cs" />
     <Compile Include="Assets\Game\Character\EffectPackage\ArtData\B1\Effect\Scripts\VertexPool.cs" />
     <Compile Include="Assets\Game\Scripts\UIView\LoginView\Default_login.cs" />
     <Compile Include="Assets\Game\Character\EffectPackage\ArtData\B1\Effect\Scripts\XWeaponTrailEditor.cs" />
@@ -117,6 +118,7 @@
     <Compile Include="Assets\3rd\CharacterArtpack\Full Body FPS Controller\Full Body FPS Controller\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Game\Scripts\A_UITools\ResolutionAdapter.cs" />
     <Compile Include="Assets\Game\Character\EffectPackage\ArtData\B1\Effect\Scripts\SplineControlPoint.cs" />
+    <Compile Include="Assets\Game\Scripts\Manager\NewBehaviourScript.cs" />
     <Compile Include="Assets\3rd\RPG Cameras &amp; Controllers\Scripts\Character\MMO\RPGCameraMMO.cs" />
     <Compile Include="Assets\3rd\DOTween\Modules\DOTweenModuleSprite.cs" />
     <Compile Include="Assets\Game\Scripts\UIView\LoginView\LogAndReg.cs" />

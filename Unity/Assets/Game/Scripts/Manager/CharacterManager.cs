@@ -1,13 +1,15 @@
+using UnityEngine;
 using XClient;
 
 public class CharacterManager : MonoSingleton<CharacterManager>
 {
+    private GameObject curGo;
     private void Awake()
     {
-        CreateRole.Instance.SelectRoleCall = SelectRoleCall;
+
+
+        curGo = transform.GetChild(0).gameObject;
     }
 
-    private void SelectRoleCall(int idx)
-    {
-    }
+
 }

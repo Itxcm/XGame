@@ -193,4 +193,6 @@ orleans.codegen.cs
 .idea/
 *.sln.iml
 
+# 服务器模块包
+packages/
 # 强制保留文件

@@ -1,5 +1,7 @@
 using ITXCM.Manager;
+using System.Collections;
 using System.IO;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 using XClient;
 using XClient.MVC;
@@ -7,9 +9,6 @@ using XShare;
 
 public class GameRoot : MonoSingleton<GameRoot>
 {
-    private Scene[] roloScene = new Scene[5];
-    private Scene activeScene;
-
     private void Awake()
     {
         // 初始化日志
@@ -20,6 +19,14 @@ public class GameRoot : MonoSingleton<GameRoot>
 
         NetService.Instance.Init();
         UserService.Instance.Init();
+
+        StartCoroutine(RegSelectRoleCall());
+    }
+    // 注册选择角色事件回调
+    private IEnumerator RegSelectRoleCall()
+    {
+        yield return new WaitUntil(() => CreateRole.Instance != null);
+        CreateRole.Instance.SelectRoleCall = SelectRoleCall;
     }
 
     // 进入游戏 创建角色Or选取角色
@@ -42,6 +49,26 @@ public class GameRoot : MonoSingleton<GameRoot>
                 // 选角页面
                 LoginView.Instance.SetRootActive(true, "SelectRole");
             }
+            GameObject go = Instantiate(AssetManager.Instance.CharacterView, this.transform);
+            curTrans = go.transform;
+            SetCurRolo(0);
         }));
     }
+
+    #region 角色选取
+
+    private GameObject curActiveGo; // 当前激活角色
+    private Transform curTrans; // 父级位置
+    private void SelectRoleCall(int idx)
+    {
+        curActiveGo.SetActive(false);
+        SetCurRolo(idx);
+    }
+    private void SetCurRolo(int idx)
+    {
+        curActiveGo = curTrans.GetChild(idx).gameObject;
+        curActiveGo.SetActive(true);
+    }
+
+    #endregion 角色选取
 }
