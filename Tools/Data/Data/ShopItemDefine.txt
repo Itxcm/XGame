@@ -1,0 +1,288 @@
+{
+  "1": {
+    "1": {
+      "ItemID": 1,
+      "Count": 1,
+      "Price": 10,
+      "Status": 1,
+      "Remark": "小型治疗药水"
+    },
+    "2": {
+      "ItemID": 1,
+      "Count": 10,
+      "Price": 100,
+      "Status": 1,
+      "Remark": "小型治疗药水X10"
+    },
+    "3": {
+      "ItemID": 2,
+      "Count": 1,
+      "Price": 10,
+      "Status": 1,
+      "Remark": "小型法力药水"
+    },
+    "4": {
+      "ItemID": 2,
+      "Count": 10,
+      "Price": 100,
+      "Status": 1,
+      "Remark": "小型法力药水X10"
+    },
+    "5": {
+      "ItemID": 3,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "面包"
+    },
+    "6": {
+      "ItemID": 3,
+      "Count": 10,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "面包X10"
+    },
+    "7": {
+      "ItemID": 4,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "海鲜汤"
+    },
+    "8": {
+      "ItemID": 4,
+      "Count": 10,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "海鲜汤X10"
+    },
+    "9": {
+      "ItemID": 5,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "小型经验书"
+    },
+    "10": {
+      "ItemID": 5,
+      "Count": 10,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "小型经验书X10"
+    },
+    "11": {
+      "ItemID": 6,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "荣耀徽章"
+    },
+    "12": {
+      "ItemID": 6,
+      "Count": 10,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "荣耀徽章X10"
+    },
+    "13": {
+      "ItemID": 7,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "钱袋"
+    },
+    "14": {
+      "ItemID": 8,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "大钱袋"
+    },
+    "15": {
+      "ItemID": 9,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "10级装备盒"
+    },
+    "16": {
+      "ItemID": 10,
+      "Count": 1,
+      "Price": 20,
+      "Status": 1,
+      "Remark": "技能书"
+    }
+  },
+  "2": {
+    "1": {
+      "ItemID": 1001,
+      "Count": 1,
+      "Price": 300,
+      "Status": 1,
+      "Remark": "铁剑"
+    },
+    "2": {
+      "ItemID": 1002,
+      "Count": 1,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "铁盾"
+    },
+    "3": {
+      "ItemID": 2001,
+      "Count": 1,
+      "Price": 300,
+      "Status": 1,
+      "Remark": "桃木法杖"
+    },
+    "4": {
+      "ItemID": 2002,
+      "Count": 1,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "牛皮法典"
+    },
+    "5": {
+      "ItemID": 3001,
+      "Count": 1,
+      "Price": 300,
+      "Status": 1,
+      "Remark": "木弓"
+    },
+    "6": {
+      "ItemID": 3002,
+      "Count": 1,
+      "Price": 200,
+      "Status": 1,
+      "Remark": "皮箭袋"
+    },
+    "7": {
+      "ItemID": 1003,
+      "Count": 1,
+      "Price": 400,
+      "Status": 1,
+      "Remark": "铁头盔"
+    },
+    "8": {
+      "ItemID": 1004,
+      "Count": 1,
+      "Price": 500,
+      "Status": 1,
+      "Remark": "铁胸甲"
+    },
+    "9": {
+      "ItemID": 1005,
+      "Count": 1,
+      "Price": 600,
+      "Status": 1,
+      "Remark": "铁肩膀"
+    },
+    "10": {
+      "ItemID": 1006,
+      "Count": 1,
+      "Price": 700,
+      "Status": 1,
+      "Remark": "铁裤"
+    },
+    "11": {
+      "ItemID": 1007,
+      "Count": 1,
+      "Price": 800,
+      "Status": 1,
+      "Remark": "铁靴"
+    },
+    "12": {
+      "ItemID": 2003,
+      "Count": 1,
+      "Price": 400,
+      "Status": 1,
+      "Remark": "布巾"
+    },
+    "13": {
+      "ItemID": 2004,
+      "Count": 1,
+      "Price": 500,
+      "Status": 1,
+      "Remark": "布衣"
+    },
+    "14": {
+      "ItemID": 2005,
+      "Count": 1,
+      "Price": 600,
+      "Status": 1,
+      "Remark": "布肩"
+    },
+    "15": {
+      "ItemID": 2006,
+      "Count": 1,
+      "Price": 700,
+      "Status": 1,
+      "Remark": "布裤"
+    },
+    "16": {
+      "ItemID": 2007,
+      "Count": 1,
+      "Price": 800,
+      "Status": 1,
+      "Remark": "布靴"
+    },
+    "17": {
+      "ItemID": 3003,
+      "Count": 1,
+      "Price": 400,
+      "Status": 1,
+      "Remark": "皮帽"
+    },
+    "18": {
+      "ItemID": 3004,
+      "Count": 1,
+      "Price": 500,
+      "Status": 1,
+      "Remark": "皮衣"
+    },
+    "19": {
+      "ItemID": 3005,
+      "Count": 1,
+      "Price": 600,
+      "Status": 1,
+      "Remark": "皮肩"
+    },
+    "20": {
+      "ItemID": 3006,
+      "Count": 1,
+      "Price": 700,
+      "Status": 1,
+      "Remark": "皮裤"
+    },
+    "21": {
+      "ItemID": 3007,
+      "Count": 1,
+      "Price": 800,
+      "Status": 1,
+      "Remark": "皮靴"
+    }
+  },
+  "3": {
+    "1": {
+      "ItemID": 8001,
+      "Count": 1,
+      "Price": 1000,
+      "Status": 1,
+      "Remark": "冰原虎"
+    },
+    "2": {
+      "ItemID": 8002,
+      "Count": 1,
+      "Price": 1000,
+      "Status": 1,
+      "Remark": "夜行虎"
+    },
+    "3": {
+      "ItemID": 8003,
+      "Count": 1,
+      "Price": 1000,
+      "Status": 1,
+      "Remark": "森林虎"
+    }
+  }
+}

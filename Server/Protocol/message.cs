@@ -1567,12 +1567,18 @@ namespace SkillBridge.Message
     {
         [global::ProtoBuf.ProtoEnum(Name = @"NONE")]
         None = 0,
-        [global::ProtoBuf.ProtoEnum(Name = @"WARRIOR")]
-        Warrior = 1,
-        [global::ProtoBuf.ProtoEnum(Name = @"WIZARD")]
-        Wizard = 2,
-        [global::ProtoBuf.ProtoEnum(Name = @"ARCHER")]
-        Archer = 3,
+        [global::ProtoBuf.ProtoEnum(Name = @"AXCELER")]
+        Axceler = 1,
+        [global::ProtoBuf.ProtoEnum(Name = @"BLADER")]
+        Blader = 2,
+        [global::ProtoBuf.ProtoEnum(Name = @"GUNSLINGER")]
+        Gunslinger = 3,
+        [global::ProtoBuf.ProtoEnum(Name = @"KNIGHT")]
+        Knight = 4,
+        [global::ProtoBuf.ProtoEnum(Name = @"MAGICIAN")]
+        Magician = 5,
+        [global::ProtoBuf.ProtoEnum(Name = @"WARLORD")]
+        Warlord = 6,
     }
 
     [global::ProtoBuf.ProtoContract(Name = @"CHARACTER_STATE")]

@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 using XClient;
 using XClient.MVC;
 using XShare;
+using XShare.Data;
 
 public class GameRoot : MonoSingleton<GameRoot>
 {
@@ -16,6 +17,8 @@ public class GameRoot : MonoSingleton<GameRoot>
         log4net.Config.XmlConfigurator.ConfigureAndWatch(fi);
         Log.Init("GameServer");
         Log.Info("Game Server Init");
+
+        DataManager.Instance.Load();
 
         NetService.Instance.Init();
         UserService.Instance.Init();
