@@ -17,16 +17,16 @@ using System.Collections.Generic;
 namespace UnityChan
 {
     //[CustomLuaClass]
-	public class SpringManager : MonoBehaviour
-	{
-		//Kobayashi
-		// DynamicRatio is paramater for activated level of dynamic animation 
-		public float dynamicRatio = 1.0f;
+    public class SpringManager : MonoBehaviour
+    {
+        //Kobayashi
+        // DynamicRatio is paramater for activated level of dynamic animation 
+        public float dynamicRatio = 1.0f;
 
-		//Ebata
-		public float			stiffnessForce;
-		public float			dragForce;
-		private List<SpringBone> springBones;
+        //Ebata
+        public float stiffnessForce;
+        public float dragForce;
+        private List<SpringBone> springBones;
 
         public float HorizonForce = 1;
         public float VerticalForce = 1;
@@ -39,23 +39,25 @@ namespace UnityChan
         public Vector3 HorizonDeltaMove;
         private Vector3 LastPos;
 
-        private float UpdateSecAcc = 0;
+        // private float UpdateSecAcc = 0;
         private Transform MyTrans;
 
         // 用来稳定帧率，避免两帧之间的更新速度变化太快
-        private float lastUpdateCount = 0;
+        //  private float lastUpdateCount = 0;
 
         private bool isHero = false;
 
         private float fps = 100;
 
 #if UNITY_EDITOR
-        void Awake() {
+        void Awake()
+        {
             ResetSpringBone(false);
         }
 #endif
 
-        public void ResetSpringBone(bool isHero) {
+        public void ResetSpringBone(bool isHero)
+        {
             springBones = new List<SpringBone>();
 
             this.isHero = isHero;
@@ -63,7 +65,8 @@ namespace UnityChan
             // 非主角降低更新频率
             UpdatePerSec = isHero ? 100 : 30;
 
-            if (transform != null) {
+            if (transform != null)
+            {
                 transform.GetComponentsInChildren<SpringBone>(false, springBones);
                 UpdateParameters();
 
@@ -72,30 +75,30 @@ namespace UnityChan
             }
         }
 
-		void Start ()
-		{
-            UpdatePerSec = isHero ? 100: 30;
+        void Start()
+        {
+            UpdatePerSec = isHero ? 100 : 30;
 
 
-            UpdateParameters ();
+            UpdateParameters();
 
             MyTrans = transform;
             LastPos = MyTrans.position;
         }
 #if UNITY_EDITOR
-        void Update ()
-		{
+        void Update()
+        {
 
-		//Kobayashi
-		if(dynamicRatio >= 1.0f)
-			dynamicRatio = 1.0f;
-		else if(dynamicRatio <= 0.0f)
-			dynamicRatio = 0.0f;
+            //Kobayashi
+            if (dynamicRatio >= 1.0f)
+                dynamicRatio = 1.0f;
+            else if (dynamicRatio <= 0.0f)
+                dynamicRatio = 0.0f;
         }
 #endif
 
-        private void LateUpdate ()
-		{
+        private void LateUpdate()
+        {
             fps = (fps * 9 + 1 / Time.deltaTime) / 10;
             //拟合出来的曲线
             springForce.y = -10 * Mathf.Pow(fps, -2.5f);
@@ -104,27 +107,33 @@ namespace UnityChan
             LastPos = MyTrans.position;
 
             //Kobayashi
-            if (dynamicRatio != 0.0f && springBones != null) {
-                for (int i = 0; i < springBones.Count; i++) {
-                    if (dynamicRatio > springBones[i].threshold) {
-                springBones[i].ApplyRootMotion();
-                springBones[i].UpdateSpring();
+            if (dynamicRatio != 0.0f && springBones != null)
+            {
+                for (int i = 0; i < springBones.Count; i++)
+                {
+                    if (dynamicRatio > springBones[i].threshold)
+                    {
+                        springBones[i].ApplyRootMotion();
+                        springBones[i].UpdateSpring();
                     }
                 }
             }
-		}
+        }
 
-		private void UpdateParameters ()
-		{
-            if (springBones != null && springBones.Count > 0) {
-                for (int i = 0; i < springBones.Count; i++) {
+        private void UpdateParameters()
+        {
+            if (springBones != null && springBones.Count > 0)
+            {
+                for (int i = 0; i < springBones.Count; i++)
+                {
                     //Kobayashi
-                    if (!springBones[i].isUseEachBoneForceSettings) {
+                    if (!springBones[i].isUseEachBoneForceSettings)
+                    {
                         springBones[i].stiffnessForce = stiffnessForce;
                         springBones[i].dragForce = dragForce;
                     }
                 }
             }
         }
-	}
+    }
 }

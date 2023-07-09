@@ -1,8 +1,6 @@
-using ITXCM.Manager;
 using System.Collections;
 using System.IO;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using XClient;
 using XClient.MVC;
 using XShare;
@@ -10,6 +8,13 @@ using XShare.Data;
 
 public class GameRoot : MonoSingleton<GameRoot>
 {
+    [SerializeField]
+    private GameObject _characterView;
+    [SerializeField]
+    private GameObject _loginView;
+    [SerializeField]
+    private GameObject _tipsView;
+
     private void Awake()
     {
         // 初始化日志
@@ -18,25 +23,31 @@ public class GameRoot : MonoSingleton<GameRoot>
         Log.Init("GameServer");
         Log.Info("Game Server Init");
 
+        // 初始化配置表以及相关服务
         DataManager.Instance.Load();
-
         NetService.Instance.Init();
         UserService.Instance.Init();
 
-        StartCoroutine(RegSelectRoleCall());
-    }
-    // 注册选择角色事件回调
-    private IEnumerator RegSelectRoleCall()
-    {
-        yield return new WaitUntil(() => CreateRole.Instance != null);
-        CreateRole.Instance.SelectRoleCall = SelectRoleCall;
+        // 初始化资源
+        InitAsset();
     }
 
-    // 进入游戏 创建角色Or选取角色
+    /// <summary>
+    /// 初始化资源
+    /// </summary>
+    private void InitAsset()
+    {
+        Instantiate(_loginView, transform);
+        Instantiate(_tipsView, transform);
+    }
+
+    /// <summary>
+    /// 进入游戏 创建角色Or选取角色
+    /// </summary>
     public void GameEnter()
     {
         // 加载场景
-        StartCoroutine(LSceneManager.Instance.LoadSceneAsync(1, null, () =>
+        StartCoroutine(MySceneManager.Instance.LoadSceneAsync(1, null, () =>
         {
             // 切换UI
             LoginView.Instance.SetRootActive(false, "BgCG", "Default_login", "LoginRoot");
@@ -52,26 +63,8 @@ public class GameRoot : MonoSingleton<GameRoot>
                 // 选角页面
                 LoginView.Instance.SetRootActive(true, "SelectRole");
             }
-            GameObject go = Instantiate(AssetManager.Instance.CharacterView, this.transform);
-            curTrans = go.transform;
-            SetCurRolo(0);
+            // 角色视图界面
+            Instantiate(_characterView, transform);
         }));
     }
-
-    #region 角色选取
-
-    private GameObject curActiveGo; // 当前激活角色
-    private Transform curTrans; // 父级位置
-    private void SelectRoleCall(int idx)
-    {
-        curActiveGo.SetActive(false);
-        SetCurRolo(idx);
-    }
-    private void SetCurRolo(int idx)
-    {
-        curActiveGo = curTrans.GetChild(idx).gameObject;
-        curActiveGo.SetActive(true);
-    }
-
-    #endregion 角色选取
 }

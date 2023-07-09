@@ -217,4 +217,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   global: 0
   systemTipsPool: {fileID: 2042246756024746457}
-  prefab: {fileID: 4077926135382689966, guid: 0efaf7a35884a7e4a8dd9df8a7dabd80, type: 3}
+  systemTipPrefab: {fileID: 4077926135382689966, guid: 0efaf7a35884a7e4a8dd9df8a7dabd80, type: 3}
+  loadingPrefabs: {fileID: 1225310903932330734, guid: 0bede20df9106ad49bd59cee2e075262, type: 3}

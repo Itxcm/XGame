@@ -22,6 +22,9 @@ public class RoleActiveResoucre
 
 public class CreateRole : MonoSingleton<CreateRole>
 {
+    public Action<int> SelectRoleCall; // 角色切换回调
+    public Action<int> CreateCall; // 创建回调
+
     [Header("角色切换资源列表")]
     public List<RoleActiveResoucre> activeList;
 
@@ -37,9 +40,6 @@ public class CreateRole : MonoSingleton<CreateRole>
 
     public Button CreateBtn; // 创建按钮
     public Text CreateName; // 创建名称
-
-    public Action<int> SelectRoleCall; // 角色切换回调
-    public Action<int> CreateCall; // 创建回调
 
     private CharacterDefine _characterInfo; // 角色信息
 
@@ -57,28 +57,18 @@ public class CreateRole : MonoSingleton<CreateRole>
         }
     }  // 当前选择索引
 
-    private void Start()
+    private void Awake()
     {
         ListenToggle();
         ListenAddfirm();
-        UserService.Instance.CreateCharacterCall += CreateCharacterCall;
-        CurrentIndx = 0;
     }
+    private void Start() => CurrentIndx = 0;
+    private void OnEnable() => UserService.Instance.CreateCharacterCall += CreateCharacterCall;
+    private void OnDisable() => UserService.Instance.CreateCharacterCall -= CreateCharacterCall;
 
-    // 选择角色回调
-    private void CreateCharacterCall(Result res, string msg)
-    {
-        if (res == Result.Success)
-        {
-            TipsConfig.Instance.ShowSystemTips(msg);
-        }
-        else
-        {
-            TipsConfig.Instance.ShowSystemTips(msg);
-        }
-    }
-
-    // 监听左侧列表开关
+    /// <summary>
+    /// 监听左侧列表开关
+    /// </summary>
     private void ListenToggle()
     {
         for (int i = 0; i < toggles.Count; i++)
@@ -88,7 +78,9 @@ public class CreateRole : MonoSingleton<CreateRole>
         }
     }
 
-    // 监听确定按钮
+    /// <summary>
+    /// 监听确定按钮
+    /// </summary>
     private void ListenAddfirm()
     {
         CreateBtn.onClick.AddListener(() =>
@@ -102,7 +94,10 @@ public class CreateRole : MonoSingleton<CreateRole>
         });
     }
 
-    //  索引改变 切换右侧资源
+    /// <summary>
+    /// 索引改变 切换右侧资源
+    /// </summary>
+    /// <param name="i"></param>
     private void SetRightRes(int i)
     {
         RoleActiveResoucre target = activeList[i];
@@ -120,5 +115,19 @@ public class CreateRole : MonoSingleton<CreateRole>
         _ImgDesc.SetNativeSize();
     }
 
+    /// <summary>
+    /// 服务器选择角色回调
+    /// </summary>
+    /// <param name="res"></param>
+    /// <param name="msg"></param>
+    private void CreateCharacterCall(Result res, string msg)
+    {
+        TipsConfig.Instance.ShowSystemTips(msg);
 
+        if (res == Result.Success)
+        {
+            gameObject.SetActive(false);
+            LoginView.Instance.SetRootActive(true, "SelectRole");
+        }
+    }
 }

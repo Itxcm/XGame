@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1797560531141035817}
-  - component: {fileID: 8063485233802898751}
+  - component: {fileID: 4465076679671082812}
   m_Layer: 0
   m_Name: CharacterView
   m_TagString: Untagged
@@ -36,9 +36,9 @@ Transform:
   - {fileID: 4468518626714998779}
   - {fileID: 9068272158263616898}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8063485233802898751
+--- !u!114 &4465076679671082812
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -47,10 +47,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 3508304374670034068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ae42e251b1cfd744984e7aaaf5f66b6, type: 3}
+  m_Script: {fileID: 11500000, guid: ec9279af9b2ebe6428657ff28596a84f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  global: 1
 --- !u!1001 &465753654831949748
 PrefabInstance:
   m_ObjectHideFlags: 0

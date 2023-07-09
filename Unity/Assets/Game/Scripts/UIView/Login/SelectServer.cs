@@ -6,10 +6,7 @@ public class SelectServer : MonoBehaviour
     public Button closeBtn;
     public Button enterBtn;
 
-    private void Awake()
-    {
-        BtnListen();
-    }
+    private void Awake() => BtnListen();
 
     private void BtnListen()
     {

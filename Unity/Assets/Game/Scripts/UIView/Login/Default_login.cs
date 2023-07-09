@@ -10,11 +10,7 @@ public class Default_login : MonoBehaviour
     public Button selectServerBtn;
     public Button selectDefaultBtn;
 
-    private void Awake()
-    {
-        BtnListen();
-    }
-
+    private void Awake() => BtnListen();
     private void BtnListen()
     {
         rerurnBtn.onClick.AddListener(() => TipsConfig.Instance.ShowSystemTips("暂未完善退出登录，请强退重新进入！"));
