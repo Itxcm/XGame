@@ -1,24 +1,13 @@
+using SkillBridge.Message;
 using System;
 using System.Collections;
 using UnityEngine;
+using XClient;
 
-public class CharacterView : MonoBehaviour
+public class CharacterView : MonoSingleton<CharacterView>
 {
     private GameObject _curActive;
 
-    private void Start() => SetRoloIndex(0);
-    private void OnEnable() => RegRoleCall();
-    private void OnDisable() => CancleRoleCall();
-    private IEnumerator RegRoleCall()
-    {
-        yield return new WaitUntil(() => CreateRole.Instance != null);
-        CreateRole.Instance.SelectRoleCall += SetRoloIndex;
-    }
-    private IEnumerator CancleRoleCall()
-    {
-        yield return new WaitUntil(() => CreateRole.Instance != null);
-        CreateRole.Instance.SelectRoleCall -= SetRoloIndex;
-    }
     /// <summary>
     ///  设置显示角色索引
     /// </summary>
@@ -33,4 +22,5 @@ public class CharacterView : MonoBehaviour
         _curActive = transform.GetChild(index).gameObject;
         _curActive.SetActive(true);
     }
+
 }

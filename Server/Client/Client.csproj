@@ -58,6 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Component\UI\" />
     <Folder Include="MVC\Managers\" />
   </ItemGroup>
   <ItemGroup>

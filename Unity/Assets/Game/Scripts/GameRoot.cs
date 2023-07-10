@@ -15,6 +15,8 @@ public class GameRoot : MonoSingleton<GameRoot>
     [SerializeField]
     private GameObject _tipsView;
 
+    public CharacterAsset CharacterAsset;
+
     private void Awake()
     {
         // 初始化日志

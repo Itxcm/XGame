@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 3346648744406477675}
   - component: {fileID: 3346648744406477676}
   - component: {fileID: 3346648744406477677}
+  - component: {fileID: 6066408595828670867}
   m_Layer: 5
   m_Name: RegBtn
   m_TagString: Untagged
@@ -243,6 +244,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &6066408595828670867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3346648744406477648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e327c47bfc2ebc43b894baf6a461cd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_type: 0
+  m_UseGraphicAlpha: 1
 --- !u!1 &3346648744624472087
 GameObject:
   m_ObjectHideFlags: 0
@@ -371,7 +386,7 @@ RectTransform:
   - {fileID: 5869250778039215144}
   - {fileID: 3346648744062143706}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -930,6 +945,7 @@ GameObject:
   - component: {fileID: 5870803990491928134}
   - component: {fileID: 6051019214018371014}
   - component: {fileID: 6051019214018371008}
+  - component: {fileID: 1460114874352845432}
   m_Layer: 5
   m_Name: LoginBtn
   m_TagString: Untagged
@@ -1040,6 +1056,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1460114874352845432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5938514459520418114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e327c47bfc2ebc43b894baf6a461cd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_type: 0
+  m_UseGraphicAlpha: 1
 --- !u!1 &5938726336366669568
 GameObject:
   m_ObjectHideFlags: 0
