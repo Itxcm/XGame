@@ -196,3 +196,4 @@ orleans.codegen.cs
 # 服务器模块包
 packages/
 # 强制保留文件
+!/Tools/ProtocolTools/protoc-3.2.0-win32/bin
