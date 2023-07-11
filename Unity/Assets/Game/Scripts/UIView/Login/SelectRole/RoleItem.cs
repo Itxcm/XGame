@@ -17,7 +17,7 @@ public class RoleItem : MonoBehaviour
     public void SetInfo(NCharacterInfo info)
     {
         Name.text = info.Name;
-        Level.text = info.Level.ToString();
+        Level.text = $"[0×ª] {info.Level}¼¶";
         SetImag(info.Class);
     }
 

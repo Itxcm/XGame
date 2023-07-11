@@ -15,13 +15,13 @@ MonoBehaviour:
   CharacterInfos:
   - Name: 
     Class: 1
-    Imgae: {fileID: 21300000, guid: fdaf15fb499e8f54f9231f72605dea10, type: 3}
+    Imgae: {fileID: 21300000, guid: 8efbfce552cec3547a002e5e53c13a78, type: 3}
   - Name: 
     Class: 0
-    Imgae: {fileID: 21300000, guid: f3ababe63516f814eafaa629c4dc1ee7, type: 3}
+    Imgae: {fileID: 21300000, guid: 392f527121064624fbadb4207b296893, type: 3}
   - Name: 
     Class: 0
-    Imgae: {fileID: 21300000, guid: fc32a8d9183b227429063544a3cb1fdc, type: 3}
+    Imgae: {fileID: 21300000, guid: 55deaaed29740ab4eafe62e3f1be6caf, type: 3}
   - Name: 
     Class: 0
-    Imgae: {fileID: 21300000, guid: c64ae985e8e9c2048b764ec184f6bd89, type: 3}
+    Imgae: {fileID: 21300000, guid: 52c63786c1d80064192aa2869bfa3431, type: 3}

@@ -15,14 +15,26 @@ public class SelectRole : MonoBehaviour
     public Transform Root;
     public ToggleGroup ToogleGroup;
 
-    private NCharacterInfo _curentCharacterInfo;
+    private NCharacterInfo _currentCharacterInfo;
+    public NCharacterInfo CurrentCharacterInfo
+    {
+        get => _currentCharacterInfo;
+        private set
+        {
+            _currentCharacterInfo = value;
+
+            StartCoroutine(WaitChatviewSetRolo());
+        }
+    }
 
     private void Awake()
     {
         ReturnBtn.onClick.AddListener(() =>
         {
-            gameObject.SetActive(false);
-            LoginView.Instance.SetRootActive(true, "CreateRole");
+            /* gameObject.SetActive(false);
+             LoginView.Instance.SetRootActive(true, "CreateRole");*/
+
+            TipsConfig.Instance.ShowSystemTips("暂时无法退出登录,请强制退出!");
         });
         ComfirmBtn.onClick.AddListener(() =>
         {
@@ -32,6 +44,18 @@ public class SelectRole : MonoBehaviour
     }
 
     private void OnEnable() => CreateItem();
+
+    /// <summary>
+    /// 等待角色视图初始化完毕设置角色视图
+    /// </summary>
+    /// <returns></returns>
+    private IEnumerator WaitChatviewSetRolo()
+    {
+        yield return new WaitUntil(() => CharacterView.Instance != null);
+
+        CharacterView.Instance.SetRoloIndex((int)_currentCharacterInfo.Class - 1);
+    }
+
     /// <summary>
     /// 创建Item项
     /// </summary>
@@ -42,16 +66,6 @@ public class SelectRole : MonoBehaviour
             CreateRoloItem(User.Instance.CharacterListInfo[i]);
         if (Root.childCount < 4)
             CreateRoloCreate();
-        SetFirsetItem();
-    }
-
-    /// <summary>
-    /// 默认第一个
-    /// </summary>
-    private void SetFirsetItem()
-    {
-        _curentCharacterInfo = User.Instance.CharacterListInfo[0];
-
     }
 
     /// <summary>
@@ -71,6 +85,7 @@ public class SelectRole : MonoBehaviour
     {
         GameObject go = Instantiate(RoloItem, Root);
         go.GetComponent<ToggleExpand>().group = ToogleGroup;
+        go.GetComponent<ToggleExpand>().onValueChanged.AddListener((isOn) => CurrentCharacterInfo = info);
         go.GetComponent<RoleItem>().SetInfo(info);
     }
 

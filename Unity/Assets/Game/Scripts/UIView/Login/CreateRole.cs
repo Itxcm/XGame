@@ -1,5 +1,6 @@
 using SkillBridge.Message;
 using System;
+using UnityEngine;
 using UnityEngine.UI;
 using XClient;
 using XClient.MVC;
@@ -9,8 +10,10 @@ public class CreateRole : MonoSingleton<CreateRole>
 {
     public Action<int> CreateCall; // 创建回调
 
+    public Button ReturnBtn; // 返回按钮
     public Button CreateBtn; // 创建按钮
     public Text CreateName; // 创建名称
+    public Transform ToggleRoot; // 开关组父级
 
     private CharacterDefine _characterInfo; // 角色信息
 
@@ -19,7 +22,7 @@ public class CreateRole : MonoSingleton<CreateRole>
     public int CurrentIndx
     {
         get => _curentIndex;
-        set
+        private set
         {
             _curentIndex = value;
 
@@ -28,7 +31,11 @@ public class CreateRole : MonoSingleton<CreateRole>
         }
     }  // 当前选择索引
 
-    private void Awake() => ListenAddfirm();
+    private void Awake()
+    {
+        ListenAddfirm();
+        ListenToggle();
+    }
 
     private void Start() => CurrentIndx = 0;
 
@@ -50,6 +57,24 @@ public class CreateRole : MonoSingleton<CreateRole>
             }
             UserService.Instance.CreateCharacter(CreateName.text, _characterInfo.Class);
         });
+
+        ReturnBtn.onClick.AddListener(() =>
+        {
+            gameObject.SetActive(false);
+            LoginView.Instance.SetRootActive(true, "CreateRolo");
+        });
+    }
+
+    /// <summary>
+    /// 监听开关
+    /// </summary>
+    private void ListenToggle()
+    {
+        for (int i = 0; i < ToggleRoot.childCount; i++)
+        {
+            int temp = i;
+            ToggleRoot.GetChild(i).GetComponent<Toggle>().onValueChanged.AddListener((isOn) => CurrentIndx = temp);
+        }
     }
 
     /// <summary>
